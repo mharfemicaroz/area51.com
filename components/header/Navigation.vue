@@ -2,7 +2,7 @@
   <ul class="mainmenu">
     <li class=""><n-link to="">Home</n-link></li>
     <li class="has-droupdown">
-      <n-link to="">Services</n-link>
+      <n-link to="">Products</n-link>
       <ul class="submenu">
         <li><n-link to="/course/course-one">Course Style 1</n-link></li>
         <li><n-link to="/course/course-two">Course Style 2</n-link></li>

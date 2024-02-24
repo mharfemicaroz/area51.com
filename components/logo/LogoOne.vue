@@ -15,28 +15,28 @@
         <div class="col-lg-7">
           <div class="brand-grid-wrap">
             <div class="brand-grid">
-              <img src="/images/brand/brand-01.png" alt="Brand Logo" />
+              <img src="/images/brand/1.png" alt="Brand Logo" />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/brand-02.png" alt="Brand Logo" />
+              <img src="/images/brand/2.png" alt="Brand Logo" />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/brand-03.png" alt="Brand Logo" />
+              <img src="/images/brand/3.png" alt="Brand Logo" />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/brand-04.png" alt="Brand Logo" />
+              <img src="/images/brand/4.png" alt="Brand Logo" />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/brand-05.png" alt="Brand Logo" />
+              <img src="/images/brand/5.png" alt="Brand Logo" />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/brand-06.png" alt="Brand Logo" />
+              <img src="/images/brand/6.png" alt="Brand Logo" />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/brand-07.png" alt="Brand Logo" />
+              <img src="/images/brand/7.png" alt="Brand Logo" />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/brand-08.png" alt="Brand Logo" />
+              <img src="/images/brand/8.png" alt="Brand Logo" />
             </div>
           </div>
         </div>

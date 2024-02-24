@@ -4,8 +4,8 @@
   >
     <div class="container edublink-animated-shape">
       <SectionTitle
-        preTitle="Popular Services"
-        title="Pick A Service To Get Started"
+        preTitle="Popular Products"
+        title="Choose A Product To Get Started"
         alignment="section-center"
       />
 
@@ -28,7 +28,7 @@
         data-aos-duration="1200"
       >
         <n-link to="/course/course-one" class="edu-btn"
-          >Browse more services <i class="icon-4"></i
+          >Browse more products <i class="icon-4"></i
         ></n-link>
       </div>
       <ul class="shape-group">

@@ -349,14 +349,14 @@ var staticRenderFns = [];
 /* harmony default export */ var landing_demovue_type_script_lang_js = ({
   components: {
     HeaderLanding: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 146)),
-    Banner: () => __webpack_require__.e(/* import() */ 61).then(__webpack_require__.bind(null, 296)),
-    FunFact: () => __webpack_require__.e(/* import() */ 200).then(__webpack_require__.bind(null, 202)),
+    Banner: () => __webpack_require__.e(/* import() */ 61).then(__webpack_require__.bind(null, 311)),
+    FunFact: () => __webpack_require__.e(/* import() */ 200).then(__webpack_require__.bind(null, 204)),
     HomeDemo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 147)),
-    LearnWith: () => __webpack_require__.e(/* import() */ 65).then(__webpack_require__.bind(null, 300)),
-    CourseLayout: () => __webpack_require__.e(/* import() */ 62).then(__webpack_require__.bind(null, 297)),
-    ShopLayout: () => __webpack_require__.e(/* import() */ 66).then(__webpack_require__.bind(null, 301)),
-    Features: () => __webpack_require__.e(/* import() */ 63).then(__webpack_require__.bind(null, 298)),
-    InnerPages: () => __webpack_require__.e(/* import() */ 64).then(__webpack_require__.bind(null, 299)),
+    LearnWith: () => __webpack_require__.e(/* import() */ 65).then(__webpack_require__.bind(null, 315)),
+    CourseLayout: () => __webpack_require__.e(/* import() */ 62).then(__webpack_require__.bind(null, 312)),
+    ShopLayout: () => __webpack_require__.e(/* import() */ 66).then(__webpack_require__.bind(null, 316)),
+    Features: () => __webpack_require__.e(/* import() */ 63).then(__webpack_require__.bind(null, 313)),
+    InnerPages: () => __webpack_require__.e(/* import() */ 64).then(__webpack_require__.bind(null, 314)),
     FooterLanding: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 148))
   },
   head() {

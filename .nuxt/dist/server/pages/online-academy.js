@@ -96,7 +96,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=template&id=fc59b300
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=template&id=0c88d4c0
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -109,11 +109,11 @@ var render = function render() {
       "alignment": "section-left",
       "subTitle": "Explore collaborative learning opportunities and grow with the expertise of our distinguished partners."
     }
-  })], 1)]), _vm._ssrNode(" <div class=\"col-lg-7\"><div class=\"brand-grid-wrap\"><div class=\"brand-grid\"><img src=\"/images/brand/brand-01.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-02.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-03.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-04.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-05.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-06.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-07.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-08.png\" alt=\"Brand Logo\"></div></div></div>")], 2)])]);
+  })], 1)]), _vm._ssrNode(" <div class=\"col-lg-7\"><div class=\"brand-grid-wrap\"><div class=\"brand-grid\"><img src=\"/images/brand/1.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/2.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/3.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/4.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/5.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/6.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/7.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/8.png\" alt=\"Brand Logo\"></div></div></div>")], 2)])]);
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/logo/LogoOne.vue?vue&type=template&id=fc59b300
+// CONCATENATED MODULE: ./components/logo/LogoOne.vue?vue&type=template&id=0c88d4c0
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=script&lang=js
 /* harmony default export */ var LogoOnevue_type_script_lang_js = ({
@@ -510,18 +510,18 @@ var staticRenderFns = [];
 /* harmony default export */ var online_academyvue_type_script_lang_js = ({
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    Banner: () => __webpack_require__.e(/* import() */ 68).then(__webpack_require__.bind(null, 303)),
+    Banner: () => __webpack_require__.e(/* import() */ 68).then(__webpack_require__.bind(null, 305)),
     Features: () => __webpack_require__.e(/* import() */ 73).then(__webpack_require__.bind(null, 346)),
-    Categories: () => __webpack_require__.e(/* import() */ 70).then(__webpack_require__.bind(null, 305)),
-    About: () => __webpack_require__.e(/* import() */ 67).then(__webpack_require__.bind(null, 302)),
-    Course: () => __webpack_require__.e(/* import() */ 72).then(__webpack_require__.bind(null, 307)),
+    Categories: () => __webpack_require__.e(/* import() */ 70).then(__webpack_require__.bind(null, 307)),
+    About: () => __webpack_require__.e(/* import() */ 67).then(__webpack_require__.bind(null, 304)),
+    Course: () => __webpack_require__.e(/* import() */ 72).then(__webpack_require__.bind(null, 309)),
     FunFact: () => __webpack_require__.e(/* import() */ 201).then(__webpack_require__.bind(null, 203)),
     TestimonialOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 149)),
-    ContactInfo: () => __webpack_require__.e(/* import() */ 71).then(__webpack_require__.bind(null, 306)),
-    Instructor: () => __webpack_require__.e(/* import() */ 74).then(__webpack_require__.bind(null, 308)),
+    ContactInfo: () => __webpack_require__.e(/* import() */ 71).then(__webpack_require__.bind(null, 308)),
+    Instructor: () => __webpack_require__.e(/* import() */ 74).then(__webpack_require__.bind(null, 310)),
     CTAOne: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 275)),
     LogoOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 118)),
-    Blog: () => __webpack_require__.e(/* import() */ 69).then(__webpack_require__.bind(null, 304)),
+    Blog: () => __webpack_require__.e(/* import() */ 69).then(__webpack_require__.bind(null, 306)),
     FooterTwo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 150))
   },
   head() {

@@ -1,20 +1,20 @@
 exports.ids = [78];
 exports.modules = {
 
-/***/ 312:
+/***/ 320:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/ContactInfo.vue?vue&type=template&id=27eb4839
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/ContactInfo.vue?vue&type=template&id=22c6f864
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c('div', {
     staticClass: "cta-area-1"
-  }, [_vm._ssrNode("<div class=\"container\">", "</div>", [_vm._ssrNode("<div class=\"row justify-content-center\">", "</div>", [_vm._ssrNode("<div class=\"col-xl-8\">", "</div>", [_vm._ssrNode("<div class=\"home-four-cta edu-cta-box cta-style-3 bg-image bg-image--16\">", "</div>", [_vm._ssrNode("<div class=\"inner\"><div class=\"content text-end\"><span class=\"subtitle\">Get In Touch:</span> <h3 class=\"title\"><a href=\"mailto:info@edublink\">info@edublink</a></h3></div> <div class=\"sparator\"><span>or</span></div> <div class=\"content\"><span class=\"subtitle\">Call Us Via:</span> <h3 class=\"title\"><a href=\"tel:+011235641231\">+01 123 5641 231</a></h3></div></div> "), _vm._ssrNode("<ul class=\"shape-group\">", "</ul>", [_c('MouseMove', {
+  }, [_vm._ssrNode("<div class=\"container\">", "</div>", [_vm._ssrNode("<div class=\"row justify-content-center\">", "</div>", [_vm._ssrNode("<div class=\"col-xl-8\">", "</div>", [_vm._ssrNode("<div class=\"home-four-cta edu-cta-box cta-style-3 bg-image bg-image--16\">", "</div>", [_vm._ssrNode("<div class=\"inner\"><div class=\"content text-end\"><span class=\"subtitle\">Get In Touch:</span> <h3 class=\"title\" style=\"font-size: 150%;!important\"><a href=\"mailto:cloydcunanan@gmail.com\">cloydcunanan@gmail.com</a></h3></div> <div class=\"sparator\"><span>or</span></div> <div class=\"content\"><span class=\"subtitle\">Call Us Via:</span> <h3 class=\"title\"><a href=\"tel:+639177621021\">+639177621021</a></h3></div></div> "), _vm._ssrNode("<ul class=\"shape-group\">", "</ul>", [_c('MouseMove', {
     attrs: {
       "addClassName": "shape-01",
       "dataDepth": "2",
@@ -36,7 +36,7 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/home-online-academy/ContactInfo.vue?vue&type=template&id=27eb4839
+// CONCATENATED MODULE: ./components/home-online-academy/ContactInfo.vue?vue&type=template&id=22c6f864
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/ContactInfo.vue?vue&type=script&lang=js
 /* harmony default export */ var ContactInfovue_type_script_lang_js = ({

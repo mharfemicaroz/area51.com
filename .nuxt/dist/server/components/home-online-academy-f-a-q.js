@@ -48,14 +48,14 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 314:
+/***/ 322:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/FAQ.vue?vue&type=template&id=871fc38c
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/FAQ.vue?vue&type=template&id=67686ff0
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -68,7 +68,7 @@ var render = function render() {
       "alignment": "section-left",
       "subTitle": "Dive into our comprehensive FAQs to uncover how our information technology services can streamline your experience and enhance your company."
     }
-  }), _vm._ssrNode(" "), _c('AccordionOne')], 2)]), _vm._ssrNode(" "), _vm._ssrNode("<div class=\"col-lg-6\">", "</div>", [_vm._ssrNode("<div class=\"edu-faq-gallery\">", "</div>", [_vm._ssrNode("<div class=\"row g-5\"><div data-aos-delay=\"50\" data-aos=\"fade-down\" data-aos-duration=\"1000\" class=\"col-6\"><div class=\"faq-thumbnail thumbnail-1\"><img src=\"/images/faq/faq-05.jpg\" alt=\"Faq Images\"></div></div> <div data-aos-delay=\"50\" data-aos=\"fade-up\" data-aos-duration=\"1000\" class=\"col-6\"><div class=\"faq-thumbnail thumbnail-2\"><img src=\"/images/faq/faq-06.jpg\" alt=\"Faq Images\"></div></div></div> "), _vm._ssrNode("<ul class=\"shape-group\">", "</ul>", [_c('MouseMove', {
+  }), _vm._ssrNode(" "), _c('AccordionOne')], 2)]), _vm._ssrNode(" "), _vm._ssrNode("<div class=\"col-lg-6\">", "</div>", [_vm._ssrNode("<div class=\"edu-faq-gallery\">", "</div>", [_vm._ssrNode("<div class=\"row g-5\"><div data-aos-delay=\"50\" data-aos=\"fade-down\" data-aos-duration=\"1000\" class=\"col-6\"><div class=\"faq-thumbnail thumbnail-1\"><img src=\"/images/faq/1.png\" alt=\"Faq Images\"></div></div> <div data-aos-delay=\"50\" data-aos=\"fade-up\" data-aos-duration=\"1000\" class=\"col-6\"><div class=\"faq-thumbnail thumbnail-2\"><img src=\"/images/faq/2.png\" alt=\"Faq Images\"></div></div></div> "), _vm._ssrNode("<ul class=\"shape-group\">", "</ul>", [_c('MouseMove', {
     attrs: {
       "addClassName": "shape-1",
       "dataDepth": "2",
@@ -102,7 +102,7 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/home-online-academy/FAQ.vue?vue&type=template&id=871fc38c
+// CONCATENATED MODULE: ./components/home-online-academy/FAQ.vue?vue&type=template&id=67686ff0
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/FAQ.vue?vue&type=script&lang=js
 /* harmony default export */ var FAQvue_type_script_lang_js = ({

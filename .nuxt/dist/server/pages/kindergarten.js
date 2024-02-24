@@ -338,14 +338,14 @@ var staticRenderFns = [];
 /* harmony default export */ var kindergartenvue_type_script_lang_js = ({
   components: {
     HeaderFour: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 144)),
-    Banner: () => __webpack_require__.e(/* import() */ 44).then(__webpack_require__.bind(null, 281)),
-    About: () => __webpack_require__.e(/* import() */ 42).then(__webpack_require__.bind(null, 279)),
-    Course: () => __webpack_require__.e(/* import() */ 46).then(__webpack_require__.bind(null, 283)),
-    Activities: () => __webpack_require__.e(/* import() */ 43).then(__webpack_require__.bind(null, 280)),
-    FAQ: () => __webpack_require__.e(/* import() */ 48).then(__webpack_require__.bind(null, 285)),
-    Event: () => __webpack_require__.e(/* import() */ 47).then(__webpack_require__.bind(null, 284)),
-    Blog: () => __webpack_require__.e(/* import() */ 45).then(__webpack_require__.bind(null, 282)),
-    SubscriptionForm: () => __webpack_require__.e(/* import() */ 49).then(__webpack_require__.bind(null, 286)),
+    Banner: () => __webpack_require__.e(/* import() */ 44).then(__webpack_require__.bind(null, 298)),
+    About: () => __webpack_require__.e(/* import() */ 42).then(__webpack_require__.bind(null, 296)),
+    Course: () => __webpack_require__.e(/* import() */ 46).then(__webpack_require__.bind(null, 300)),
+    Activities: () => __webpack_require__.e(/* import() */ 43).then(__webpack_require__.bind(null, 297)),
+    FAQ: () => __webpack_require__.e(/* import() */ 48).then(__webpack_require__.bind(null, 302)),
+    Event: () => __webpack_require__.e(/* import() */ 47).then(__webpack_require__.bind(null, 301)),
+    Blog: () => __webpack_require__.e(/* import() */ 45).then(__webpack_require__.bind(null, 299)),
+    SubscriptionForm: () => __webpack_require__.e(/* import() */ 49).then(__webpack_require__.bind(null, 303)),
     FooterKindergarten: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 169))
   },
   head() {

@@ -27,7 +27,7 @@
         data-aos="fade-up"
         data-aos-duration="1000"
       >
-        <img src="/images/banner/girl-4.jpg" alt="Girl Image" />
+        <img src="/images/banner/girl-4.png" alt="Girl Image" />
       </div>
       <div
         class="thumbnail thumbnail-2"
@@ -35,7 +35,7 @@
         data-aos="fade-down"
         data-aos-duration="1000"
       >
-        <img src="/images/banner/girl-5.jpg" alt="Girl Image" />
+        <img src="/images/banner/girl-5.png" alt="Girl Image" />
       </div>
       <div
         class="thumbnail thumbnail-3"
@@ -43,7 +43,7 @@
         data-aos="fade-right"
         data-aos-duration="1000"
       >
-        <img src="/images/banner/girl-6.jpg" alt="Girl Image" />
+        <img src="/images/banner/girl-6.png" alt="Girl Image" />
       </div>
       <div
         class="online-support"

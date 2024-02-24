@@ -1620,7 +1620,7 @@ installComponents(component, {HeaderTopOne: __webpack_require__(75).default})
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/footer/FooterOne.vue?vue&type=template&id=63bdd6d2
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/footer/FooterOne.vue?vue&type=template&id=ae7532ec
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -1636,7 +1636,7 @@ var render = function render() {
       "src": "/images/logo/logo-white.png",
       "alt": "Light Logo"
     }
-  })])], 1), _vm._ssrNode(" <p class=\"description\">\n              Dedicated to providing top-tier IT support and solutions to\n              businesses across various sectors. Our mission is to ensure your\n              technology drives your business forward.\n            </p> <div class=\"widget-information\"><ul class=\"information-list\"><li><span>Add:</span>Panabo City, Dava del Norte</li> <li><span>Call:</span><a href=\"tel:+011235641231\">+01 123 5641 231</a></li> <li><span>Email:</span><a href=\"mailto:info@edublink.com\" target=\"_blank\">info@edublink.com</a></li></ul></div>")], 2)]), _vm._ssrNode(" "), _vm._ssrNode("<div class=\"col-lg-3 col-sm-6\">", "</div>", [_vm._ssrNode("<div class=\"edu-footer-widget explore-widget\">", "</div>", [_vm._ssrNode("<h4 class=\"widget-title\">Online Platform</h4> "), _vm._ssrNode("<div class=\"inner\">", "</div>", [_vm._ssrNode("<ul class=\"footer-link link-hover\">", "</ul>", [_vm._ssrNode("<li>", "</li>", [_c('n-link', {
+  })])], 1), _vm._ssrNode(" <p class=\"description\">\n              Dedicated to providing top-tier IT support and solutions to\n              businesses across various sectors. Our mission is to ensure your\n              technology drives your business forward.\n            </p> <div class=\"widget-information\"><ul class=\"information-list\"><li><span>Add:</span>Panabo City, Dava del Norte</li> <li><span>Call:</span><a href=\"tel:+639177621021\">+639177621021</a></li> <li><span>Email:</span><a href=\"mailto:cloydcunanan@gmail.com\" target=\"_blank\">cloydcunanan@gmail.com</a></li></ul></div>")], 2)]), _vm._ssrNode(" "), _vm._ssrNode("<div class=\"col-lg-3 col-sm-6\">", "</div>", [_vm._ssrNode("<div class=\"edu-footer-widget explore-widget\">", "</div>", [_vm._ssrNode("<h4 class=\"widget-title\">Online Platform</h4> "), _vm._ssrNode("<div class=\"inner\">", "</div>", [_vm._ssrNode("<ul class=\"footer-link link-hover\">", "</ul>", [_vm._ssrNode("<li>", "</li>", [_c('n-link', {
     attrs: {
       "to": "/about-us"
     }
@@ -1688,7 +1688,7 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/footer/FooterOne.vue?vue&type=template&id=63bdd6d2
+// CONCATENATED MODULE: ./components/footer/FooterOne.vue?vue&type=template&id=ae7532ec
 
 // EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 var componentNormalizer = __webpack_require__(1);
@@ -3230,16 +3230,22 @@ __webpack_require__.d(components_namespaceObject, "AboutUsThreeFunFact", functio
 __webpack_require__.d(components_namespaceObject, "AboutUsThreeInstructor", function() { return AboutUsThreeInstructor; });
 __webpack_require__.d(components_namespaceObject, "AboutUsThreeTestimonial", function() { return AboutUsThreeTestimonial; });
 __webpack_require__.d(components_namespaceObject, "AboutUsThreeWhyChoose", function() { return AboutUsThreeWhyChoose; });
-__webpack_require__.d(components_namespaceObject, "BlogPostList", function() { return BlogPostList; });
-__webpack_require__.d(components_namespaceObject, "BlogPostOne", function() { return BlogPostOne; });
-__webpack_require__.d(components_namespaceObject, "BlogPostStandard", function() { return BlogPostStandard; });
-__webpack_require__.d(components_namespaceObject, "BlogPostTwo", function() { return BlogPostTwo; });
 __webpack_require__.d(components_namespaceObject, "AboutUsTwoFeatures", function() { return AboutUsTwoFeatures; });
 __webpack_require__.d(components_namespaceObject, "AboutUsTwoFunFact", function() { return AboutUsTwoFunFact; });
 __webpack_require__.d(components_namespaceObject, "AboutUsTwoInstructor", function() { return AboutUsTwoInstructor; });
 __webpack_require__.d(components_namespaceObject, "AboutUsTwoLogo", function() { return AboutUsTwoLogo; });
 __webpack_require__.d(components_namespaceObject, "AboutUsTwoTestimonial", function() { return AboutUsTwoTestimonial; });
 __webpack_require__.d(components_namespaceObject, "AboutUsTwoVideo", function() { return AboutUsTwoVideo; });
+__webpack_require__.d(components_namespaceObject, "BlogPostList", function() { return BlogPostList; });
+__webpack_require__.d(components_namespaceObject, "BlogPostOne", function() { return BlogPostOne; });
+__webpack_require__.d(components_namespaceObject, "BlogPostStandard", function() { return BlogPostStandard; });
+__webpack_require__.d(components_namespaceObject, "BlogPostTwo", function() { return BlogPostTwo; });
+__webpack_require__.d(components_namespaceObject, "CommonBreadCrumbOne", function() { return CommonBreadCrumbOne; });
+__webpack_require__.d(components_namespaceObject, "CommonBreadCrumbThree", function() { return CommonBreadCrumbThree; });
+__webpack_require__.d(components_namespaceObject, "CommonBreadCrumbTwo", function() { return CommonBreadCrumbTwo; });
+__webpack_require__.d(components_namespaceObject, "CommonColorMode", function() { return CommonColorMode; });
+__webpack_require__.d(components_namespaceObject, "CommonPaginationOne", function() { return CommonPaginationOne; });
+__webpack_require__.d(components_namespaceObject, "CommonSectionTitle", function() { return CommonSectionTitle; });
 __webpack_require__.d(components_namespaceObject, "AnimationMouseMove", function() { return AnimationMouseMove; });
 __webpack_require__.d(components_namespaceObject, "CourseTypeEight", function() { return CourseTypeEight; });
 __webpack_require__.d(components_namespaceObject, "CourseTypeFive", function() { return CourseTypeFive; });
@@ -3249,6 +3255,8 @@ __webpack_require__.d(components_namespaceObject, "CourseTypeSeven", function() 
 __webpack_require__.d(components_namespaceObject, "CourseTypeSix", function() { return CourseTypeSix; });
 __webpack_require__.d(components_namespaceObject, "CourseTypeThree", function() { return CourseTypeThree; });
 __webpack_require__.d(components_namespaceObject, "CourseTypeTwo", function() { return CourseTypeTwo; });
+__webpack_require__.d(components_namespaceObject, "CtaCTAOne", function() { return CtaCTAOne; });
+__webpack_require__.d(components_namespaceObject, "CtaCTAOneAlter", function() { return CtaCTAOneAlter; });
 __webpack_require__.d(components_namespaceObject, "FooterKindergarten", function() { return FooterKindergarten; });
 __webpack_require__.d(components_namespaceObject, "FooterKitchen", function() { return FooterKitchen; });
 __webpack_require__.d(components_namespaceObject, "FooterLanding", function() { return FooterLanding; });
@@ -3258,14 +3266,6 @@ __webpack_require__.d(components_namespaceObject, "FooterTwo", function() { retu
 __webpack_require__.d(components_namespaceObject, "FooterYoga", function() { return FooterYoga; });
 __webpack_require__.d(components_namespaceObject, "FooterGoogleMapWithAPI", function() { return FooterGoogleMapWithAPI; });
 __webpack_require__.d(components_namespaceObject, "FooterScrollToTop", function() { return FooterScrollToTop; });
-__webpack_require__.d(components_namespaceObject, "CommonBreadCrumbOne", function() { return CommonBreadCrumbOne; });
-__webpack_require__.d(components_namespaceObject, "CommonBreadCrumbThree", function() { return CommonBreadCrumbThree; });
-__webpack_require__.d(components_namespaceObject, "CommonBreadCrumbTwo", function() { return CommonBreadCrumbTwo; });
-__webpack_require__.d(components_namespaceObject, "CommonColorMode", function() { return CommonColorMode; });
-__webpack_require__.d(components_namespaceObject, "CommonPaginationOne", function() { return CommonPaginationOne; });
-__webpack_require__.d(components_namespaceObject, "CommonSectionTitle", function() { return CommonSectionTitle; });
-__webpack_require__.d(components_namespaceObject, "CtaCTAOne", function() { return CtaCTAOne; });
-__webpack_require__.d(components_namespaceObject, "CtaCTAOneAlter", function() { return CtaCTAOneAlter; });
 __webpack_require__.d(components_namespaceObject, "HeaderCategory", function() { return HeaderCategory; });
 __webpack_require__.d(components_namespaceObject, "HeaderFour", function() { return HeaderFour; });
 __webpack_require__.d(components_namespaceObject, "HeaderLanding", function() { return HeaderLanding; });
@@ -3283,14 +3283,15 @@ __webpack_require__.d(components_namespaceObject, "EventList", function() { retu
 __webpack_require__.d(components_namespaceObject, "EventOne", function() { return EventOne; });
 __webpack_require__.d(components_namespaceObject, "EventSectionOne", function() { return EventSectionOne; });
 __webpack_require__.d(components_namespaceObject, "EventTwo", function() { return EventTwo; });
-__webpack_require__.d(components_namespaceObject, "HomeKindergartenAbout", function() { return HomeKindergartenAbout; });
-__webpack_require__.d(components_namespaceObject, "HomeKindergartenActivities", function() { return HomeKindergartenActivities; });
-__webpack_require__.d(components_namespaceObject, "HomeKindergartenBanner", function() { return HomeKindergartenBanner; });
-__webpack_require__.d(components_namespaceObject, "HomeKindergartenBlog", function() { return HomeKindergartenBlog; });
-__webpack_require__.d(components_namespaceObject, "HomeKindergartenCourse", function() { return HomeKindergartenCourse; });
-__webpack_require__.d(components_namespaceObject, "HomeKindergartenEvent", function() { return HomeKindergartenEvent; });
-__webpack_require__.d(components_namespaceObject, "HomeKindergartenFAQ", function() { return HomeKindergartenFAQ; });
-__webpack_require__.d(components_namespaceObject, "HomeKindergartenSubscriptionForm", function() { return HomeKindergartenSubscriptionForm; });
+__webpack_require__.d(components_namespaceObject, "HomeDistantLearningAbout", function() { return HomeDistantLearningAbout; });
+__webpack_require__.d(components_namespaceObject, "HomeDistantLearningBanner", function() { return HomeDistantLearningBanner; });
+__webpack_require__.d(components_namespaceObject, "HomeDistantLearningBlog", function() { return HomeDistantLearningBlog; });
+__webpack_require__.d(components_namespaceObject, "HomeDistantLearningCategories", function() { return HomeDistantLearningCategories; });
+__webpack_require__.d(components_namespaceObject, "HomeDistantLearningCourse", function() { return HomeDistantLearningCourse; });
+__webpack_require__.d(components_namespaceObject, "HomeDistantLearningFAQ", function() { return HomeDistantLearningFAQ; });
+__webpack_require__.d(components_namespaceObject, "HomeDistantLearningFunFact", function() { return HomeDistantLearningFunFact; });
+__webpack_require__.d(components_namespaceObject, "HomeDistantLearningLogo", function() { return HomeDistantLearningLogo; });
+__webpack_require__.d(components_namespaceObject, "HomeDistantLearningVideo", function() { return HomeDistantLearningVideo; });
 __webpack_require__.d(components_namespaceObject, "HomeKitchenCoachAbout", function() { return HomeKitchenCoachAbout; });
 __webpack_require__.d(components_namespaceObject, "HomeKitchenCoachBanner", function() { return HomeKitchenCoachBanner; });
 __webpack_require__.d(components_namespaceObject, "HomeKitchenCoachBlog", function() { return HomeKitchenCoachBlog; });
@@ -3303,14 +3304,14 @@ __webpack_require__.d(components_namespaceObject, "HomeKitchenCoachInstagram", f
 __webpack_require__.d(components_namespaceObject, "HomeKitchenCoachInstructor", function() { return HomeKitchenCoachInstructor; });
 __webpack_require__.d(components_namespaceObject, "HomeKitchenCoachLogo", function() { return HomeKitchenCoachLogo; });
 __webpack_require__.d(components_namespaceObject, "HomeKitchenCoachTestimonial", function() { return HomeKitchenCoachTestimonial; });
-__webpack_require__.d(components_namespaceObject, "HomeLandingDemoBanner", function() { return HomeLandingDemoBanner; });
-__webpack_require__.d(components_namespaceObject, "HomeLandingDemoCourseLayout", function() { return HomeLandingDemoCourseLayout; });
-__webpack_require__.d(components_namespaceObject, "HomeLandingDemoFeatures", function() { return HomeLandingDemoFeatures; });
-__webpack_require__.d(components_namespaceObject, "HomeLandingDemoFunFact", function() { return HomeLandingDemoFunFact; });
-__webpack_require__.d(components_namespaceObject, "HomeDemo", function() { return HomeDemo; });
-__webpack_require__.d(components_namespaceObject, "HomeLandingDemoInnerPages", function() { return HomeLandingDemoInnerPages; });
-__webpack_require__.d(components_namespaceObject, "HomeLandingDemoLearnWith", function() { return HomeLandingDemoLearnWith; });
-__webpack_require__.d(components_namespaceObject, "HomeLandingDemoShopLayout", function() { return HomeLandingDemoShopLayout; });
+__webpack_require__.d(components_namespaceObject, "HomeKindergartenAbout", function() { return HomeKindergartenAbout; });
+__webpack_require__.d(components_namespaceObject, "HomeKindergartenActivities", function() { return HomeKindergartenActivities; });
+__webpack_require__.d(components_namespaceObject, "HomeKindergartenBanner", function() { return HomeKindergartenBanner; });
+__webpack_require__.d(components_namespaceObject, "HomeKindergartenBlog", function() { return HomeKindergartenBlog; });
+__webpack_require__.d(components_namespaceObject, "HomeKindergartenCourse", function() { return HomeKindergartenCourse; });
+__webpack_require__.d(components_namespaceObject, "HomeKindergartenEvent", function() { return HomeKindergartenEvent; });
+__webpack_require__.d(components_namespaceObject, "HomeKindergartenFAQ", function() { return HomeKindergartenFAQ; });
+__webpack_require__.d(components_namespaceObject, "HomeKindergartenSubscriptionForm", function() { return HomeKindergartenSubscriptionForm; });
 __webpack_require__.d(components_namespaceObject, "HomeMainAbout", function() { return HomeMainAbout; });
 __webpack_require__.d(components_namespaceObject, "HomeMainBanner", function() { return HomeMainBanner; });
 __webpack_require__.d(components_namespaceObject, "HomeMainBlog", function() { return HomeMainBlog; });
@@ -3320,6 +3321,14 @@ __webpack_require__.d(components_namespaceObject, "HomeMainCourse", function() {
 __webpack_require__.d(components_namespaceObject, "HomeMainFeatures", function() { return HomeMainFeatures; });
 __webpack_require__.d(components_namespaceObject, "HomeMainFunFact", function() { return HomeMainFunFact; });
 __webpack_require__.d(components_namespaceObject, "HomeMainInstructor", function() { return HomeMainInstructor; });
+__webpack_require__.d(components_namespaceObject, "HomeLandingDemoBanner", function() { return HomeLandingDemoBanner; });
+__webpack_require__.d(components_namespaceObject, "HomeLandingDemoCourseLayout", function() { return HomeLandingDemoCourseLayout; });
+__webpack_require__.d(components_namespaceObject, "HomeLandingDemoFeatures", function() { return HomeLandingDemoFeatures; });
+__webpack_require__.d(components_namespaceObject, "HomeLandingDemoFunFact", function() { return HomeLandingDemoFunFact; });
+__webpack_require__.d(components_namespaceObject, "HomeDemo", function() { return HomeDemo; });
+__webpack_require__.d(components_namespaceObject, "HomeLandingDemoInnerPages", function() { return HomeLandingDemoInnerPages; });
+__webpack_require__.d(components_namespaceObject, "HomeLandingDemoLearnWith", function() { return HomeLandingDemoLearnWith; });
+__webpack_require__.d(components_namespaceObject, "HomeLandingDemoShopLayout", function() { return HomeLandingDemoShopLayout; });
 __webpack_require__.d(components_namespaceObject, "HomeOnlineAcademyBanner", function() { return HomeOnlineAcademyBanner; });
 __webpack_require__.d(components_namespaceObject, "HomeOnlineAcademyBlog", function() { return HomeOnlineAcademyBlog; });
 __webpack_require__.d(components_namespaceObject, "HomeOnlineAcademyCategories", function() { return HomeOnlineAcademyCategories; });
@@ -3328,15 +3337,6 @@ __webpack_require__.d(components_namespaceObject, "HomeOnlineAcademyCourse", fun
 __webpack_require__.d(components_namespaceObject, "HomeOnlineAcademyFAQ", function() { return HomeOnlineAcademyFAQ; });
 __webpack_require__.d(components_namespaceObject, "HomeOnlineAcademyFunFact", function() { return HomeOnlineAcademyFunFact; });
 __webpack_require__.d(components_namespaceObject, "HomeOnlineAcademyInstructor", function() { return HomeOnlineAcademyInstructor; });
-__webpack_require__.d(components_namespaceObject, "HomeDistantLearningAbout", function() { return HomeDistantLearningAbout; });
-__webpack_require__.d(components_namespaceObject, "HomeDistantLearningBanner", function() { return HomeDistantLearningBanner; });
-__webpack_require__.d(components_namespaceObject, "HomeDistantLearningBlog", function() { return HomeDistantLearningBlog; });
-__webpack_require__.d(components_namespaceObject, "HomeDistantLearningCategories", function() { return HomeDistantLearningCategories; });
-__webpack_require__.d(components_namespaceObject, "HomeDistantLearningCourse", function() { return HomeDistantLearningCourse; });
-__webpack_require__.d(components_namespaceObject, "HomeDistantLearningFAQ", function() { return HomeDistantLearningFAQ; });
-__webpack_require__.d(components_namespaceObject, "HomeDistantLearningFunFact", function() { return HomeDistantLearningFunFact; });
-__webpack_require__.d(components_namespaceObject, "HomeDistantLearningLogo", function() { return HomeDistantLearningLogo; });
-__webpack_require__.d(components_namespaceObject, "HomeDistantLearningVideo", function() { return HomeDistantLearningVideo; });
 __webpack_require__.d(components_namespaceObject, "HomeUniversityAbout", function() { return HomeUniversityAbout; });
 __webpack_require__.d(components_namespaceObject, "HomeUniversityBanner", function() { return HomeUniversityBanner; });
 __webpack_require__.d(components_namespaceObject, "HomeUniversityCampus", function() { return HomeUniversityCampus; });
@@ -3345,6 +3345,9 @@ __webpack_require__.d(components_namespaceObject, "HomeUniversityCourse", functi
 __webpack_require__.d(components_namespaceObject, "HomeUniversityFeatures", function() { return HomeUniversityFeatures; });
 __webpack_require__.d(components_namespaceObject, "HomeUniversityFunFact", function() { return HomeUniversityFunFact; });
 __webpack_require__.d(components_namespaceObject, "HomeUniversityVideo", function() { return HomeUniversityVideo; });
+__webpack_require__.d(components_namespaceObject, "ProductOne", function() { return ProductOne; });
+__webpack_require__.d(components_namespaceObject, "LogoOne", function() { return LogoOne; });
+__webpack_require__.d(components_namespaceObject, "LogoTwo", function() { return LogoTwo; });
 __webpack_require__.d(components_namespaceObject, "HomeYogaInstructorAbout", function() { return HomeYogaInstructorAbout; });
 __webpack_require__.d(components_namespaceObject, "HomeYogaInstructorBanner", function() { return HomeYogaInstructorBanner; });
 __webpack_require__.d(components_namespaceObject, "HomeYogaInstructorCourse", function() { return HomeYogaInstructorCourse; });
@@ -3354,14 +3357,11 @@ __webpack_require__.d(components_namespaceObject, "HomeYogaInstructor", function
 __webpack_require__.d(components_namespaceObject, "HomeYogaInstructorTestimonial", function() { return HomeYogaInstructorTestimonial; });
 __webpack_require__.d(components_namespaceObject, "HomeYogaInstructorVideo", function() { return HomeYogaInstructorVideo; });
 __webpack_require__.d(components_namespaceObject, "HomeYogaInstructorWhyChoose", function() { return HomeYogaInstructorWhyChoose; });
-__webpack_require__.d(components_namespaceObject, "LogoOne", function() { return LogoOne; });
-__webpack_require__.d(components_namespaceObject, "LogoTwo", function() { return LogoTwo; });
 __webpack_require__.d(components_namespaceObject, "InstructorFive", function() { return InstructorFive; });
 __webpack_require__.d(components_namespaceObject, "InstructorFour", function() { return InstructorFour; });
 __webpack_require__.d(components_namespaceObject, "InstructorOne", function() { return InstructorOne; });
 __webpack_require__.d(components_namespaceObject, "InstructorThree", function() { return InstructorThree; });
 __webpack_require__.d(components_namespaceObject, "InstructorTwo", function() { return InstructorTwo; });
-__webpack_require__.d(components_namespaceObject, "ProductOne", function() { return ProductOne; });
 __webpack_require__.d(components_namespaceObject, "SidebarBlogSidebarOne", function() { return SidebarBlogSidebarOne; });
 __webpack_require__.d(components_namespaceObject, "SidebarCourseSidebarOne", function() { return SidebarCourseSidebarOne; });
 __webpack_require__.d(components_namespaceObject, "SidebarEventSidebar", function() { return SidebarEventSidebar; });
@@ -5003,16 +5003,22 @@ const AboutUsThreeFunFact = () => __webpack_require__.e(/* import() | components
 const AboutUsThreeInstructor = () => __webpack_require__.e(/* import() | components/about-us-three-instructor */ 22).then(__webpack_require__.bind(null, 264)).then(c => wrapFunctional(c.default || c));
 const AboutUsThreeTestimonial = () => __webpack_require__.e(/* import() | components/about-us-three-testimonial */ 23).then(__webpack_require__.bind(null, 265)).then(c => wrapFunctional(c.default || c));
 const AboutUsThreeWhyChoose = () => __webpack_require__.e(/* import() | components/about-us-three-why-choose */ 24).then(__webpack_require__.bind(null, 266)).then(c => wrapFunctional(c.default || c));
-const BlogPostList = () => __webpack_require__.e(/* import() | components/blog-post-list */ 104).then(__webpack_require__.bind(null, 155)).then(c => wrapFunctional(c.default || c));
-const BlogPostOne = () => __webpack_require__.e(/* import() | components/blog-post-one */ 105).then(__webpack_require__.bind(null, 104)).then(c => wrapFunctional(c.default || c));
-const BlogPostStandard = () => __webpack_require__.e(/* import() | components/blog-post-standard */ 106).then(__webpack_require__.bind(null, 156)).then(c => wrapFunctional(c.default || c));
-const BlogPostTwo = () => __webpack_require__.e(/* import() | components/blog-post-two */ 107).then(__webpack_require__.bind(null, 161)).then(c => wrapFunctional(c.default || c));
 const AboutUsTwoFeatures = () => __webpack_require__.e(/* import() | components/about-us-two-features */ 25).then(__webpack_require__.bind(null, 267)).then(c => wrapFunctional(c.default || c));
 const AboutUsTwoFunFact = () => __webpack_require__.e(/* import() | components/about-us-two-fun-fact */ 26).then(__webpack_require__.bind(null, 268)).then(c => wrapFunctional(c.default || c));
 const AboutUsTwoInstructor = () => __webpack_require__.e(/* import() | components/about-us-two-instructor */ 27).then(__webpack_require__.bind(null, 269)).then(c => wrapFunctional(c.default || c));
 const AboutUsTwoLogo = () => __webpack_require__.e(/* import() | components/about-us-two-logo */ 28).then(__webpack_require__.bind(null, 341)).then(c => wrapFunctional(c.default || c));
 const AboutUsTwoTestimonial = () => __webpack_require__.e(/* import() | components/about-us-two-testimonial */ 29).then(__webpack_require__.bind(null, 270)).then(c => wrapFunctional(c.default || c));
 const AboutUsTwoVideo = () => __webpack_require__.e(/* import() | components/about-us-two-video */ 30).then(__webpack_require__.bind(null, 271)).then(c => wrapFunctional(c.default || c));
+const BlogPostList = () => __webpack_require__.e(/* import() | components/blog-post-list */ 104).then(__webpack_require__.bind(null, 155)).then(c => wrapFunctional(c.default || c));
+const BlogPostOne = () => __webpack_require__.e(/* import() | components/blog-post-one */ 105).then(__webpack_require__.bind(null, 104)).then(c => wrapFunctional(c.default || c));
+const BlogPostStandard = () => __webpack_require__.e(/* import() | components/blog-post-standard */ 106).then(__webpack_require__.bind(null, 156)).then(c => wrapFunctional(c.default || c));
+const BlogPostTwo = () => __webpack_require__.e(/* import() | components/blog-post-two */ 107).then(__webpack_require__.bind(null, 162)).then(c => wrapFunctional(c.default || c));
+const CommonBreadCrumbOne = () => __webpack_require__.e(/* import() | components/common-bread-crumb-one */ 5).then(__webpack_require__.bind(null, 272)).then(c => wrapFunctional(c.default || c));
+const CommonBreadCrumbThree = () => __webpack_require__.e(/* import() | components/common-bread-crumb-three */ 31).then(__webpack_require__.bind(null, 273)).then(c => wrapFunctional(c.default || c));
+const CommonBreadCrumbTwo = () => __webpack_require__.e(/* import() | components/common-bread-crumb-two */ 2).then(__webpack_require__.bind(null, 257)).then(c => wrapFunctional(c.default || c));
+const CommonColorMode = () => __webpack_require__.e(/* import() | components/common-color-mode */ 3).then(__webpack_require__.bind(null, 259)).then(c => wrapFunctional(c.default || c));
+const CommonPaginationOne = () => __webpack_require__.e(/* import() | components/common-pagination-one */ 11).then(__webpack_require__.bind(null, 342)).then(c => wrapFunctional(c.default || c));
+const CommonSectionTitle = () => __webpack_require__.e(/* import() | components/common-section-title */ 1).then(__webpack_require__.bind(null, 274)).then(c => wrapFunctional(c.default || c));
 const AnimationMouseMove = () => __webpack_require__.e(/* import() | components/animation-mouse-move */ 0).then(__webpack_require__.bind(null, 209)).then(c => wrapFunctional(c.default || c));
 const CourseTypeEight = () => __webpack_require__.e(/* import() | components/course-type-eight */ 108).then(__webpack_require__.bind(null, 163)).then(c => wrapFunctional(c.default || c));
 const CourseTypeFive = () => __webpack_require__.e(/* import() | components/course-type-five */ 109).then(__webpack_require__.bind(null, 164)).then(c => wrapFunctional(c.default || c));
@@ -5022,6 +5028,8 @@ const CourseTypeSeven = () => __webpack_require__.e(/* import() | components/cou
 const CourseTypeSix = () => __webpack_require__.e(/* import() | components/course-type-six */ 113).then(__webpack_require__.bind(null, 158)).then(c => wrapFunctional(c.default || c));
 const CourseTypeThree = () => __webpack_require__.e(/* import() | components/course-type-three */ 114).then(__webpack_require__.bind(null, 119)).then(c => wrapFunctional(c.default || c));
 const CourseTypeTwo = () => __webpack_require__.e(/* import() | components/course-type-two */ 32).then(__webpack_require__.bind(null, 120)).then(c => wrapFunctional(c.default || c));
+const CtaCTAOne = () => __webpack_require__.e(/* import() | components/cta-c-t-a-one */ 4).then(__webpack_require__.bind(null, 275)).then(c => wrapFunctional(c.default || c));
+const CtaCTAOneAlter = () => __webpack_require__.e(/* import() | components/cta-c-t-a-one-alter */ 12).then(__webpack_require__.bind(null, 276)).then(c => wrapFunctional(c.default || c));
 const FooterKindergarten = () => __webpack_require__.e(/* import() | components/footer-kindergarten */ 119).then(__webpack_require__.bind(null, 169)).then(c => wrapFunctional(c.default || c));
 const FooterKitchen = () => __webpack_require__.e(/* import() | components/footer-kitchen */ 120).then(__webpack_require__.bind(null, 145)).then(c => wrapFunctional(c.default || c));
 const FooterLanding = () => __webpack_require__.e(/* import() | components/footer-landing */ 121).then(__webpack_require__.bind(null, 148)).then(c => wrapFunctional(c.default || c));
@@ -5029,16 +5037,8 @@ const FooterOne = () => Promise.resolve(/* import() */).then(__webpack_require__
 const FooterThree = () => __webpack_require__.e(/* import() | components/footer-three */ 122).then(__webpack_require__.bind(null, 170)).then(c => wrapFunctional(c.default || c));
 const FooterTwo = () => __webpack_require__.e(/* import() | components/footer-two */ 123).then(__webpack_require__.bind(null, 150)).then(c => wrapFunctional(c.default || c));
 const FooterYoga = () => __webpack_require__.e(/* import() | components/footer-yoga */ 124).then(__webpack_require__.bind(null, 154)).then(c => wrapFunctional(c.default || c));
-const FooterGoogleMapWithAPI = () => __webpack_require__.e(/* import() | components/footer-google-map-with-a-p-i */ 118).then(__webpack_require__.bind(null, 342)).then(c => wrapFunctional(c.default || c));
+const FooterGoogleMapWithAPI = () => __webpack_require__.e(/* import() | components/footer-google-map-with-a-p-i */ 118).then(__webpack_require__.bind(null, 343)).then(c => wrapFunctional(c.default || c));
 const FooterScrollToTop = () => __webpack_require__.e(/* import() | components/footer-scroll-to-top */ 14).then(__webpack_require__.bind(null, 208)).then(c => wrapFunctional(c.default || c));
-const CommonBreadCrumbOne = () => __webpack_require__.e(/* import() | components/common-bread-crumb-one */ 5).then(__webpack_require__.bind(null, 272)).then(c => wrapFunctional(c.default || c));
-const CommonBreadCrumbThree = () => __webpack_require__.e(/* import() | components/common-bread-crumb-three */ 31).then(__webpack_require__.bind(null, 273)).then(c => wrapFunctional(c.default || c));
-const CommonBreadCrumbTwo = () => __webpack_require__.e(/* import() | components/common-bread-crumb-two */ 2).then(__webpack_require__.bind(null, 257)).then(c => wrapFunctional(c.default || c));
-const CommonColorMode = () => __webpack_require__.e(/* import() | components/common-color-mode */ 3).then(__webpack_require__.bind(null, 259)).then(c => wrapFunctional(c.default || c));
-const CommonPaginationOne = () => __webpack_require__.e(/* import() | components/common-pagination-one */ 11).then(__webpack_require__.bind(null, 343)).then(c => wrapFunctional(c.default || c));
-const CommonSectionTitle = () => __webpack_require__.e(/* import() | components/common-section-title */ 1).then(__webpack_require__.bind(null, 274)).then(c => wrapFunctional(c.default || c));
-const CtaCTAOne = () => __webpack_require__.e(/* import() | components/cta-c-t-a-one */ 4).then(__webpack_require__.bind(null, 275)).then(c => wrapFunctional(c.default || c));
-const CtaCTAOneAlter = () => __webpack_require__.e(/* import() | components/cta-c-t-a-one-alter */ 12).then(__webpack_require__.bind(null, 276)).then(c => wrapFunctional(c.default || c));
 const HeaderCategory = () => __webpack_require__.e(/* import() | components/header-category */ 15).then(__webpack_require__.bind(null, 339)).then(c => wrapFunctional(c.default || c));
 const HeaderFour = () => __webpack_require__.e(/* import() | components/header-four */ 126).then(__webpack_require__.bind(null, 144)).then(c => wrapFunctional(c.default || c));
 const HeaderLanding = () => __webpack_require__.e(/* import() | components/header-landing */ 127).then(__webpack_require__.bind(null, 146)).then(c => wrapFunctional(c.default || c));
@@ -5056,14 +5056,15 @@ const EventList = () => __webpack_require__.e(/* import() | components/event-lis
 const EventOne = () => __webpack_require__.e(/* import() | components/event-one */ 116).then(__webpack_require__.bind(null, 121)).then(c => wrapFunctional(c.default || c));
 const EventSectionOne = () => __webpack_require__.e(/* import() | components/event-section-one */ 13).then(__webpack_require__.bind(null, 278)).then(c => wrapFunctional(c.default || c));
 const EventTwo = () => __webpack_require__.e(/* import() | components/event-two */ 117).then(__webpack_require__.bind(null, 166)).then(c => wrapFunctional(c.default || c));
-const HomeKindergartenAbout = () => __webpack_require__.e(/* import() | components/home-kindergarten-about */ 42).then(__webpack_require__.bind(null, 279)).then(c => wrapFunctional(c.default || c));
-const HomeKindergartenActivities = () => __webpack_require__.e(/* import() | components/home-kindergarten-activities */ 43).then(__webpack_require__.bind(null, 280)).then(c => wrapFunctional(c.default || c));
-const HomeKindergartenBanner = () => __webpack_require__.e(/* import() | components/home-kindergarten-banner */ 44).then(__webpack_require__.bind(null, 281)).then(c => wrapFunctional(c.default || c));
-const HomeKindergartenBlog = () => __webpack_require__.e(/* import() | components/home-kindergarten-blog */ 45).then(__webpack_require__.bind(null, 282)).then(c => wrapFunctional(c.default || c));
-const HomeKindergartenCourse = () => __webpack_require__.e(/* import() | components/home-kindergarten-course */ 46).then(__webpack_require__.bind(null, 283)).then(c => wrapFunctional(c.default || c));
-const HomeKindergartenEvent = () => __webpack_require__.e(/* import() | components/home-kindergarten-event */ 47).then(__webpack_require__.bind(null, 284)).then(c => wrapFunctional(c.default || c));
-const HomeKindergartenFAQ = () => __webpack_require__.e(/* import() | components/home-kindergarten-f-a-q */ 48).then(__webpack_require__.bind(null, 285)).then(c => wrapFunctional(c.default || c));
-const HomeKindergartenSubscriptionForm = () => __webpack_require__.e(/* import() | components/home-kindergarten-subscription-form */ 49).then(__webpack_require__.bind(null, 286)).then(c => wrapFunctional(c.default || c));
+const HomeDistantLearningAbout = () => __webpack_require__.e(/* import() | components/home-distant-learning-about */ 34).then(__webpack_require__.bind(null, 279)).then(c => wrapFunctional(c.default || c));
+const HomeDistantLearningBanner = () => __webpack_require__.e(/* import() | components/home-distant-learning-banner */ 35).then(__webpack_require__.bind(null, 280)).then(c => wrapFunctional(c.default || c));
+const HomeDistantLearningBlog = () => __webpack_require__.e(/* import() | components/home-distant-learning-blog */ 36).then(__webpack_require__.bind(null, 281)).then(c => wrapFunctional(c.default || c));
+const HomeDistantLearningCategories = () => __webpack_require__.e(/* import() | components/home-distant-learning-categories */ 37).then(__webpack_require__.bind(null, 282)).then(c => wrapFunctional(c.default || c));
+const HomeDistantLearningCourse = () => __webpack_require__.e(/* import() | components/home-distant-learning-course */ 38).then(__webpack_require__.bind(null, 283)).then(c => wrapFunctional(c.default || c));
+const HomeDistantLearningFAQ = () => __webpack_require__.e(/* import() | components/home-distant-learning-f-a-q */ 39).then(__webpack_require__.bind(null, 284)).then(c => wrapFunctional(c.default || c));
+const HomeDistantLearningFunFact = () => __webpack_require__.e(/* import() | components/home-distant-learning-fun-fact */ 132).then(__webpack_require__.bind(null, 201)).then(c => wrapFunctional(c.default || c));
+const HomeDistantLearningLogo = () => __webpack_require__.e(/* import() | components/home-distant-learning-logo */ 40).then(__webpack_require__.bind(null, 285)).then(c => wrapFunctional(c.default || c));
+const HomeDistantLearningVideo = () => __webpack_require__.e(/* import() | components/home-distant-learning-video */ 41).then(__webpack_require__.bind(null, 286)).then(c => wrapFunctional(c.default || c));
 const HomeKitchenCoachAbout = () => __webpack_require__.e(/* import() | components/home-kitchen-coach-about */ 50).then(__webpack_require__.bind(null, 287)).then(c => wrapFunctional(c.default || c));
 const HomeKitchenCoachBanner = () => __webpack_require__.e(/* import() | components/home-kitchen-coach-banner */ 51).then(__webpack_require__.bind(null, 288)).then(c => wrapFunctional(c.default || c));
 const HomeKitchenCoachBlog = () => __webpack_require__.e(/* import() | components/home-kitchen-coach-blog */ 52).then(__webpack_require__.bind(null, 289)).then(c => wrapFunctional(c.default || c));
@@ -5071,45 +5072,44 @@ const HomeKitchenCoachCourse = () => __webpack_require__.e(/* import() | compone
 const HomeKitchenCoachCTA = () => __webpack_require__.e(/* import() | components/home-kitchen-coach-c-t-a */ 53).then(__webpack_require__.bind(null, 291)).then(c => wrapFunctional(c.default || c));
 const HomeKitchenCoachFAQ = () => __webpack_require__.e(/* import() | components/home-kitchen-coach-f-a-q */ 55).then(__webpack_require__.bind(null, 292)).then(c => wrapFunctional(c.default || c));
 const HomeKitchenCoachFeatures = () => __webpack_require__.e(/* import() | components/home-kitchen-coach-features */ 56).then(__webpack_require__.bind(null, 344)).then(c => wrapFunctional(c.default || c));
-const HomeKitchenCoachFunFact = () => __webpack_require__.e(/* import() | components/home-kitchen-coach-fun-fact */ 133).then(__webpack_require__.bind(null, 201)).then(c => wrapFunctional(c.default || c));
+const HomeKitchenCoachFunFact = () => __webpack_require__.e(/* import() | components/home-kitchen-coach-fun-fact */ 133).then(__webpack_require__.bind(null, 202)).then(c => wrapFunctional(c.default || c));
 const HomeKitchenCoachInstagram = () => __webpack_require__.e(/* import() | components/home-kitchen-coach-instagram */ 57).then(__webpack_require__.bind(null, 293)).then(c => wrapFunctional(c.default || c));
 const HomeKitchenCoachInstructor = () => __webpack_require__.e(/* import() | components/home-kitchen-coach-instructor */ 58).then(__webpack_require__.bind(null, 294)).then(c => wrapFunctional(c.default || c));
 const HomeKitchenCoachLogo = () => __webpack_require__.e(/* import() | components/home-kitchen-coach-logo */ 59).then(__webpack_require__.bind(null, 345)).then(c => wrapFunctional(c.default || c));
 const HomeKitchenCoachTestimonial = () => __webpack_require__.e(/* import() | components/home-kitchen-coach-testimonial */ 60).then(__webpack_require__.bind(null, 295)).then(c => wrapFunctional(c.default || c));
-const HomeLandingDemoBanner = () => __webpack_require__.e(/* import() | components/home-landing-demo-banner */ 61).then(__webpack_require__.bind(null, 296)).then(c => wrapFunctional(c.default || c));
-const HomeLandingDemoCourseLayout = () => __webpack_require__.e(/* import() | components/home-landing-demo-course-layout */ 62).then(__webpack_require__.bind(null, 297)).then(c => wrapFunctional(c.default || c));
-const HomeLandingDemoFeatures = () => __webpack_require__.e(/* import() | components/home-landing-demo-features */ 63).then(__webpack_require__.bind(null, 298)).then(c => wrapFunctional(c.default || c));
-const HomeLandingDemoFunFact = () => __webpack_require__.e(/* import() | components/home-landing-demo-fun-fact */ 134).then(__webpack_require__.bind(null, 202)).then(c => wrapFunctional(c.default || c));
-const HomeDemo = () => __webpack_require__.e(/* import() | components/home-demo */ 131).then(__webpack_require__.bind(null, 147)).then(c => wrapFunctional(c.default || c));
-const HomeLandingDemoInnerPages = () => __webpack_require__.e(/* import() | components/home-landing-demo-inner-pages */ 64).then(__webpack_require__.bind(null, 299)).then(c => wrapFunctional(c.default || c));
-const HomeLandingDemoLearnWith = () => __webpack_require__.e(/* import() | components/home-landing-demo-learn-with */ 65).then(__webpack_require__.bind(null, 300)).then(c => wrapFunctional(c.default || c));
-const HomeLandingDemoShopLayout = () => __webpack_require__.e(/* import() | components/home-landing-demo-shop-layout */ 66).then(__webpack_require__.bind(null, 301)).then(c => wrapFunctional(c.default || c));
-const HomeMainAbout = () => __webpack_require__.e(/* import() | components/home-main-about */ 67).then(__webpack_require__.bind(null, 302)).then(c => wrapFunctional(c.default || c));
-const HomeMainBanner = () => __webpack_require__.e(/* import() | components/home-main-banner */ 68).then(__webpack_require__.bind(null, 303)).then(c => wrapFunctional(c.default || c));
-const HomeMainBlog = () => __webpack_require__.e(/* import() | components/home-main-blog */ 69).then(__webpack_require__.bind(null, 304)).then(c => wrapFunctional(c.default || c));
-const HomeMainCategories = () => __webpack_require__.e(/* import() | components/home-main-categories */ 70).then(__webpack_require__.bind(null, 305)).then(c => wrapFunctional(c.default || c));
-const HomeMainContactInfo = () => __webpack_require__.e(/* import() | components/home-main-contact-info */ 71).then(__webpack_require__.bind(null, 306)).then(c => wrapFunctional(c.default || c));
-const HomeMainCourse = () => __webpack_require__.e(/* import() | components/home-main-course */ 72).then(__webpack_require__.bind(null, 307)).then(c => wrapFunctional(c.default || c));
+const HomeKindergartenAbout = () => __webpack_require__.e(/* import() | components/home-kindergarten-about */ 42).then(__webpack_require__.bind(null, 296)).then(c => wrapFunctional(c.default || c));
+const HomeKindergartenActivities = () => __webpack_require__.e(/* import() | components/home-kindergarten-activities */ 43).then(__webpack_require__.bind(null, 297)).then(c => wrapFunctional(c.default || c));
+const HomeKindergartenBanner = () => __webpack_require__.e(/* import() | components/home-kindergarten-banner */ 44).then(__webpack_require__.bind(null, 298)).then(c => wrapFunctional(c.default || c));
+const HomeKindergartenBlog = () => __webpack_require__.e(/* import() | components/home-kindergarten-blog */ 45).then(__webpack_require__.bind(null, 299)).then(c => wrapFunctional(c.default || c));
+const HomeKindergartenCourse = () => __webpack_require__.e(/* import() | components/home-kindergarten-course */ 46).then(__webpack_require__.bind(null, 300)).then(c => wrapFunctional(c.default || c));
+const HomeKindergartenEvent = () => __webpack_require__.e(/* import() | components/home-kindergarten-event */ 47).then(__webpack_require__.bind(null, 301)).then(c => wrapFunctional(c.default || c));
+const HomeKindergartenFAQ = () => __webpack_require__.e(/* import() | components/home-kindergarten-f-a-q */ 48).then(__webpack_require__.bind(null, 302)).then(c => wrapFunctional(c.default || c));
+const HomeKindergartenSubscriptionForm = () => __webpack_require__.e(/* import() | components/home-kindergarten-subscription-form */ 49).then(__webpack_require__.bind(null, 303)).then(c => wrapFunctional(c.default || c));
+const HomeMainAbout = () => __webpack_require__.e(/* import() | components/home-main-about */ 67).then(__webpack_require__.bind(null, 304)).then(c => wrapFunctional(c.default || c));
+const HomeMainBanner = () => __webpack_require__.e(/* import() | components/home-main-banner */ 68).then(__webpack_require__.bind(null, 305)).then(c => wrapFunctional(c.default || c));
+const HomeMainBlog = () => __webpack_require__.e(/* import() | components/home-main-blog */ 69).then(__webpack_require__.bind(null, 306)).then(c => wrapFunctional(c.default || c));
+const HomeMainCategories = () => __webpack_require__.e(/* import() | components/home-main-categories */ 70).then(__webpack_require__.bind(null, 307)).then(c => wrapFunctional(c.default || c));
+const HomeMainContactInfo = () => __webpack_require__.e(/* import() | components/home-main-contact-info */ 71).then(__webpack_require__.bind(null, 308)).then(c => wrapFunctional(c.default || c));
+const HomeMainCourse = () => __webpack_require__.e(/* import() | components/home-main-course */ 72).then(__webpack_require__.bind(null, 309)).then(c => wrapFunctional(c.default || c));
 const HomeMainFeatures = () => __webpack_require__.e(/* import() | components/home-main-features */ 73).then(__webpack_require__.bind(null, 346)).then(c => wrapFunctional(c.default || c));
 const HomeMainFunFact = () => __webpack_require__.e(/* import() | components/home-main-fun-fact */ 135).then(__webpack_require__.bind(null, 203)).then(c => wrapFunctional(c.default || c));
-const HomeMainInstructor = () => __webpack_require__.e(/* import() | components/home-main-instructor */ 74).then(__webpack_require__.bind(null, 308)).then(c => wrapFunctional(c.default || c));
-const HomeOnlineAcademyBanner = () => __webpack_require__.e(/* import() | components/home-online-academy-banner */ 75).then(__webpack_require__.bind(null, 309)).then(c => wrapFunctional(c.default || c));
-const HomeOnlineAcademyBlog = () => __webpack_require__.e(/* import() | components/home-online-academy-blog */ 76).then(__webpack_require__.bind(null, 310)).then(c => wrapFunctional(c.default || c));
-const HomeOnlineAcademyCategories = () => __webpack_require__.e(/* import() | components/home-online-academy-categories */ 77).then(__webpack_require__.bind(null, 311)).then(c => wrapFunctional(c.default || c));
-const HomeOnlineAcademyContactInfo = () => __webpack_require__.e(/* import() | components/home-online-academy-contact-info */ 78).then(__webpack_require__.bind(null, 312)).then(c => wrapFunctional(c.default || c));
-const HomeOnlineAcademyCourse = () => __webpack_require__.e(/* import() | components/home-online-academy-course */ 79).then(__webpack_require__.bind(null, 313)).then(c => wrapFunctional(c.default || c));
-const HomeOnlineAcademyFAQ = () => __webpack_require__.e(/* import() | components/home-online-academy-f-a-q */ 80).then(__webpack_require__.bind(null, 314)).then(c => wrapFunctional(c.default || c));
-const HomeOnlineAcademyFunFact = () => __webpack_require__.e(/* import() | components/home-online-academy-fun-fact */ 136).then(__webpack_require__.bind(null, 204)).then(c => wrapFunctional(c.default || c));
-const HomeOnlineAcademyInstructor = () => __webpack_require__.e(/* import() | components/home-online-academy-instructor */ 81).then(__webpack_require__.bind(null, 315)).then(c => wrapFunctional(c.default || c));
-const HomeDistantLearningAbout = () => __webpack_require__.e(/* import() | components/home-distant-learning-about */ 34).then(__webpack_require__.bind(null, 316)).then(c => wrapFunctional(c.default || c));
-const HomeDistantLearningBanner = () => __webpack_require__.e(/* import() | components/home-distant-learning-banner */ 35).then(__webpack_require__.bind(null, 317)).then(c => wrapFunctional(c.default || c));
-const HomeDistantLearningBlog = () => __webpack_require__.e(/* import() | components/home-distant-learning-blog */ 36).then(__webpack_require__.bind(null, 318)).then(c => wrapFunctional(c.default || c));
-const HomeDistantLearningCategories = () => __webpack_require__.e(/* import() | components/home-distant-learning-categories */ 37).then(__webpack_require__.bind(null, 319)).then(c => wrapFunctional(c.default || c));
-const HomeDistantLearningCourse = () => __webpack_require__.e(/* import() | components/home-distant-learning-course */ 38).then(__webpack_require__.bind(null, 320)).then(c => wrapFunctional(c.default || c));
-const HomeDistantLearningFAQ = () => __webpack_require__.e(/* import() | components/home-distant-learning-f-a-q */ 39).then(__webpack_require__.bind(null, 321)).then(c => wrapFunctional(c.default || c));
-const HomeDistantLearningFunFact = () => __webpack_require__.e(/* import() | components/home-distant-learning-fun-fact */ 132).then(__webpack_require__.bind(null, 205)).then(c => wrapFunctional(c.default || c));
-const HomeDistantLearningLogo = () => __webpack_require__.e(/* import() | components/home-distant-learning-logo */ 40).then(__webpack_require__.bind(null, 322)).then(c => wrapFunctional(c.default || c));
-const HomeDistantLearningVideo = () => __webpack_require__.e(/* import() | components/home-distant-learning-video */ 41).then(__webpack_require__.bind(null, 323)).then(c => wrapFunctional(c.default || c));
+const HomeMainInstructor = () => __webpack_require__.e(/* import() | components/home-main-instructor */ 74).then(__webpack_require__.bind(null, 310)).then(c => wrapFunctional(c.default || c));
+const HomeLandingDemoBanner = () => __webpack_require__.e(/* import() | components/home-landing-demo-banner */ 61).then(__webpack_require__.bind(null, 311)).then(c => wrapFunctional(c.default || c));
+const HomeLandingDemoCourseLayout = () => __webpack_require__.e(/* import() | components/home-landing-demo-course-layout */ 62).then(__webpack_require__.bind(null, 312)).then(c => wrapFunctional(c.default || c));
+const HomeLandingDemoFeatures = () => __webpack_require__.e(/* import() | components/home-landing-demo-features */ 63).then(__webpack_require__.bind(null, 313)).then(c => wrapFunctional(c.default || c));
+const HomeLandingDemoFunFact = () => __webpack_require__.e(/* import() | components/home-landing-demo-fun-fact */ 134).then(__webpack_require__.bind(null, 204)).then(c => wrapFunctional(c.default || c));
+const HomeDemo = () => __webpack_require__.e(/* import() | components/home-demo */ 131).then(__webpack_require__.bind(null, 147)).then(c => wrapFunctional(c.default || c));
+const HomeLandingDemoInnerPages = () => __webpack_require__.e(/* import() | components/home-landing-demo-inner-pages */ 64).then(__webpack_require__.bind(null, 314)).then(c => wrapFunctional(c.default || c));
+const HomeLandingDemoLearnWith = () => __webpack_require__.e(/* import() | components/home-landing-demo-learn-with */ 65).then(__webpack_require__.bind(null, 315)).then(c => wrapFunctional(c.default || c));
+const HomeLandingDemoShopLayout = () => __webpack_require__.e(/* import() | components/home-landing-demo-shop-layout */ 66).then(__webpack_require__.bind(null, 316)).then(c => wrapFunctional(c.default || c));
+const HomeOnlineAcademyBanner = () => __webpack_require__.e(/* import() | components/home-online-academy-banner */ 75).then(__webpack_require__.bind(null, 317)).then(c => wrapFunctional(c.default || c));
+const HomeOnlineAcademyBlog = () => __webpack_require__.e(/* import() | components/home-online-academy-blog */ 76).then(__webpack_require__.bind(null, 318)).then(c => wrapFunctional(c.default || c));
+const HomeOnlineAcademyCategories = () => __webpack_require__.e(/* import() | components/home-online-academy-categories */ 77).then(__webpack_require__.bind(null, 319)).then(c => wrapFunctional(c.default || c));
+const HomeOnlineAcademyContactInfo = () => __webpack_require__.e(/* import() | components/home-online-academy-contact-info */ 78).then(__webpack_require__.bind(null, 320)).then(c => wrapFunctional(c.default || c));
+const HomeOnlineAcademyCourse = () => __webpack_require__.e(/* import() | components/home-online-academy-course */ 79).then(__webpack_require__.bind(null, 321)).then(c => wrapFunctional(c.default || c));
+const HomeOnlineAcademyFAQ = () => __webpack_require__.e(/* import() | components/home-online-academy-f-a-q */ 80).then(__webpack_require__.bind(null, 322)).then(c => wrapFunctional(c.default || c));
+const HomeOnlineAcademyFunFact = () => __webpack_require__.e(/* import() | components/home-online-academy-fun-fact */ 136).then(__webpack_require__.bind(null, 205)).then(c => wrapFunctional(c.default || c));
+const HomeOnlineAcademyInstructor = () => __webpack_require__.e(/* import() | components/home-online-academy-instructor */ 81).then(__webpack_require__.bind(null, 323)).then(c => wrapFunctional(c.default || c));
 const HomeUniversityAbout = () => __webpack_require__.e(/* import() | components/home-university-about */ 82).then(__webpack_require__.bind(null, 324)).then(c => wrapFunctional(c.default || c));
 const HomeUniversityBanner = () => __webpack_require__.e(/* import() | components/home-university-banner */ 83).then(__webpack_require__.bind(null, 325)).then(c => wrapFunctional(c.default || c));
 const HomeUniversityCampus = () => __webpack_require__.e(/* import() | components/home-university-campus */ 84).then(__webpack_require__.bind(null, 326)).then(c => wrapFunctional(c.default || c));
@@ -5118,6 +5118,9 @@ const HomeUniversityCourse = () => __webpack_require__.e(/* import() | component
 const HomeUniversityFeatures = () => __webpack_require__.e(/* import() | components/home-university-features */ 87).then(__webpack_require__.bind(null, 348)).then(c => wrapFunctional(c.default || c));
 const HomeUniversityFunFact = () => __webpack_require__.e(/* import() | components/home-university-fun-fact */ 137).then(__webpack_require__.bind(null, 206)).then(c => wrapFunctional(c.default || c));
 const HomeUniversityVideo = () => __webpack_require__.e(/* import() | components/home-university-video */ 88).then(__webpack_require__.bind(null, 328)).then(c => wrapFunctional(c.default || c));
+const ProductOne = () => __webpack_require__.e(/* import() | components/product-one */ 145).then(__webpack_require__.bind(null, 151)).then(c => wrapFunctional(c.default || c));
+const LogoOne = () => __webpack_require__.e(/* import() | components/logo-one */ 144).then(__webpack_require__.bind(null, 118)).then(c => wrapFunctional(c.default || c));
+const LogoTwo = () => __webpack_require__.e(/* import() | components/logo-two */ 97).then(__webpack_require__.bind(null, 168)).then(c => wrapFunctional(c.default || c));
 const HomeYogaInstructorAbout = () => __webpack_require__.e(/* import() | components/home-yoga-instructor-about */ 90).then(__webpack_require__.bind(null, 329)).then(c => wrapFunctional(c.default || c));
 const HomeYogaInstructorBanner = () => __webpack_require__.e(/* import() | components/home-yoga-instructor-banner */ 91).then(__webpack_require__.bind(null, 330)).then(c => wrapFunctional(c.default || c));
 const HomeYogaInstructorCourse = () => __webpack_require__.e(/* import() | components/home-yoga-instructor-course */ 92).then(__webpack_require__.bind(null, 331)).then(c => wrapFunctional(c.default || c));
@@ -5127,14 +5130,11 @@ const HomeYogaInstructor = () => __webpack_require__.e(/* import() | components/
 const HomeYogaInstructorTestimonial = () => __webpack_require__.e(/* import() | components/home-yoga-instructor-testimonial */ 94).then(__webpack_require__.bind(null, 334)).then(c => wrapFunctional(c.default || c));
 const HomeYogaInstructorVideo = () => __webpack_require__.e(/* import() | components/home-yoga-instructor-video */ 95).then(__webpack_require__.bind(null, 335)).then(c => wrapFunctional(c.default || c));
 const HomeYogaInstructorWhyChoose = () => __webpack_require__.e(/* import() | components/home-yoga-instructor-why-choose */ 96).then(__webpack_require__.bind(null, 336)).then(c => wrapFunctional(c.default || c));
-const LogoOne = () => __webpack_require__.e(/* import() | components/logo-one */ 144).then(__webpack_require__.bind(null, 118)).then(c => wrapFunctional(c.default || c));
-const LogoTwo = () => __webpack_require__.e(/* import() | components/logo-two */ 97).then(__webpack_require__.bind(null, 168)).then(c => wrapFunctional(c.default || c));
-const InstructorFive = () => __webpack_require__.e(/* import() | components/instructor-five */ 140).then(__webpack_require__.bind(null, 162)).then(c => wrapFunctional(c.default || c));
+const InstructorFive = () => __webpack_require__.e(/* import() | components/instructor-five */ 140).then(__webpack_require__.bind(null, 161)).then(c => wrapFunctional(c.default || c));
 const InstructorFour = () => __webpack_require__.e(/* import() | components/instructor-four */ 141).then(__webpack_require__.bind(null, 167)).then(c => wrapFunctional(c.default || c));
 const InstructorOne = () => __webpack_require__.e(/* import() | components/instructor-one */ 17).then(__webpack_require__.bind(null, 106)).then(c => wrapFunctional(c.default || c));
 const InstructorThree = () => __webpack_require__.e(/* import() | components/instructor-three */ 142).then(__webpack_require__.bind(null, 108)).then(c => wrapFunctional(c.default || c));
 const InstructorTwo = () => __webpack_require__.e(/* import() | components/instructor-two */ 143).then(__webpack_require__.bind(null, 107)).then(c => wrapFunctional(c.default || c));
-const ProductOne = () => __webpack_require__.e(/* import() | components/product-one */ 145).then(__webpack_require__.bind(null, 151)).then(c => wrapFunctional(c.default || c));
 const SidebarBlogSidebarOne = () => __webpack_require__.e(/* import() | components/sidebar-blog-sidebar-one */ 9).then(__webpack_require__.bind(null, 337)).then(c => wrapFunctional(c.default || c));
 const SidebarCourseSidebarOne = () => __webpack_require__.e(/* import() | components/sidebar-course-sidebar-one */ 18).then(__webpack_require__.bind(null, 349)).then(c => wrapFunctional(c.default || c));
 const SidebarEventSidebar = () => __webpack_require__.e(/* import() | components/sidebar-event-sidebar */ 98).then(__webpack_require__.bind(null, 350)).then(c => wrapFunctional(c.default || c));

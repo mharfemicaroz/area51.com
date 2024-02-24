@@ -1,14 +1,14 @@
 exports.ids = [75];
 exports.modules = {
 
-/***/ 309:
+/***/ 317:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Banner.vue?vue&type=template&id=8a9d28a6
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Banner.vue?vue&type=template&id=15e71536
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -21,7 +21,7 @@ var render = function render() {
     }
   }, [_vm._v("Contact Us Now "), _c('i', {
     staticClass: "icon-4"
-  })])], 1)], 2)])])]), _vm._ssrNode(" <div class=\"banner-gallery\"><div data-aos-delay=\"500\" data-aos=\"fade-up\" data-aos-duration=\"1000\" class=\"thumbnail thumbnail-1\"><img src=\"/images/banner/girl-4.jpg\" alt=\"Girl Image\"></div> <div data-aos-delay=\"500\" data-aos=\"fade-down\" data-aos-duration=\"1000\" class=\"thumbnail thumbnail-2\"><img src=\"/images/banner/girl-5.jpg\" alt=\"Girl Image\"></div> <div data-aos-delay=\"500\" data-aos=\"fade-right\" data-aos-duration=\"1000\" class=\"thumbnail thumbnail-3\"><img src=\"/images/banner/girl-6.jpg\" alt=\"Girl Image\"></div> <div data-aos-delay=\"600\" data-aos=\"fade-right\" data-aos-duration=\"1000\" class=\"online-support\"><div class=\"inner\"><div class=\"icon\"><i class=\"icon-29\"></i></div> <div class=\"content\"><span class=\"subtitle\">Online Support </span> <h4 class=\"title\"><a href=\"tel:+0123456789\">+639177621021</a></h4></div></div></div></div> <div class=\"scroll-down-btn\"><a href=\"#categories\" class=\"scroll-btn\"><i class=\"icon-41\"></i></a></div> "), _vm._ssrNode("<ul class=\"shape-group\">", "</ul>", [_c('MouseMove', {
+  })])], 1)], 2)])])]), _vm._ssrNode(" <div class=\"banner-gallery\"><div data-aos-delay=\"500\" data-aos=\"fade-up\" data-aos-duration=\"1000\" class=\"thumbnail thumbnail-1\"><img src=\"/images/banner/girl-4.png\" alt=\"Girl Image\"></div> <div data-aos-delay=\"500\" data-aos=\"fade-down\" data-aos-duration=\"1000\" class=\"thumbnail thumbnail-2\"><img src=\"/images/banner/girl-5.png\" alt=\"Girl Image\"></div> <div data-aos-delay=\"500\" data-aos=\"fade-right\" data-aos-duration=\"1000\" class=\"thumbnail thumbnail-3\"><img src=\"/images/banner/girl-6.png\" alt=\"Girl Image\"></div> <div data-aos-delay=\"600\" data-aos=\"fade-right\" data-aos-duration=\"1000\" class=\"online-support\"><div class=\"inner\"><div class=\"icon\"><i class=\"icon-29\"></i></div> <div class=\"content\"><span class=\"subtitle\">Online Support </span> <h4 class=\"title\"><a href=\"tel:+0123456789\">+639177621021</a></h4></div></div></div></div> <div class=\"scroll-down-btn\"><a href=\"#categories\" class=\"scroll-btn\"><i class=\"icon-41\"></i></a></div> "), _vm._ssrNode("<ul class=\"shape-group\">", "</ul>", [_c('MouseMove', {
     attrs: {
       "addClassName": "shape-1",
       "dataDepth": "2",
@@ -88,7 +88,7 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/home-online-academy/Banner.vue?vue&type=template&id=8a9d28a6
+// CONCATENATED MODULE: ./components/home-online-academy/Banner.vue?vue&type=template&id=15e71536
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Banner.vue?vue&type=script&lang=js
 /* harmony default export */ var Bannervue_type_script_lang_js = ({

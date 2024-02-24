@@ -8,13 +8,13 @@ exports.modules = {
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/header/HeaderTopTwo.vue?vue&type=template&id=15900918
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/header/HeaderTopTwo.vue?vue&type=template&id=1ce9e924
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c('div', {
     staticClass: "header-top-bar"
-  }, [_vm._ssrNode("<div class=\"container\">", "</div>", [_vm._ssrNode("<div class=\"header-top\">", "</div>", [_vm._ssrNode("<div class=\"header-top-left\"><ul class=\"header-info\"><li><a href=\"tel:+011235641231\"><i class=\"icon-phone\"></i>Call: +6399177621021</a></li> <li><a href=\"mailto:info@edublink.com\" target=\"_blank\"><i class=\"icon-envelope\"></i>Email: cloydcunanan@gmail.com</a></li></ul></div> "), _vm._ssrNode("<div class=\"header-top-right\">", "</div>", [_vm._ssrNode("<ul class=\"header-info\">", "</ul>", [_vm._ssrNode("<li>", "</li>", [_c('n-link', {
+  }, [_vm._ssrNode("<div class=\"container\">", "</div>", [_vm._ssrNode("<div class=\"header-top\">", "</div>", [_vm._ssrNode("<div class=\"header-top-left\"><ul class=\"header-info\"><li><a href=\"tel:+6399177621021\"><i class=\"icon-phone\"></i>Call: +6399177621021</a></li> <li><a href=\"mailto:cloydcunanan@gmail.com\" target=\"_blank\"><i class=\"icon-envelope\"></i>Email: cloydcunanan@gmail.com</a></li></ul></div> "), _vm._ssrNode("<div class=\"header-top-right\">", "</div>", [_vm._ssrNode("<ul class=\"header-info\">", "</ul>", [_vm._ssrNode("<li>", "</li>", [_c('n-link', {
     attrs: {
       "to": "/"
     }
@@ -33,7 +33,7 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/header/HeaderTopTwo.vue?vue&type=template&id=15900918
+// CONCATENATED MODULE: ./components/header/HeaderTopTwo.vue?vue&type=template&id=1ce9e924
 
 // EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 var componentNormalizer = __webpack_require__(1);
@@ -85,7 +85,7 @@ module.exports.__inject__ = function (context) {
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=template&id=fc59b300
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=template&id=0c88d4c0
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -98,11 +98,11 @@ var render = function render() {
       "alignment": "section-left",
       "subTitle": "Explore collaborative learning opportunities and grow with the expertise of our distinguished partners."
     }
-  })], 1)]), _vm._ssrNode(" <div class=\"col-lg-7\"><div class=\"brand-grid-wrap\"><div class=\"brand-grid\"><img src=\"/images/brand/brand-01.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-02.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-03.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-04.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-05.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-06.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-07.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-08.png\" alt=\"Brand Logo\"></div></div></div>")], 2)])]);
+  })], 1)]), _vm._ssrNode(" <div class=\"col-lg-7\"><div class=\"brand-grid-wrap\"><div class=\"brand-grid\"><img src=\"/images/brand/1.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/2.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/3.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/4.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/5.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/6.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/7.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/8.png\" alt=\"Brand Logo\"></div></div></div>")], 2)])]);
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/logo/LogoOne.vue?vue&type=template&id=fc59b300
+// CONCATENATED MODULE: ./components/logo/LogoOne.vue?vue&type=template&id=0c88d4c0
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=script&lang=js
 /* harmony default export */ var LogoOnevue_type_script_lang_js = ({
@@ -320,16 +320,16 @@ var staticRenderFns = [];
 /* harmony default export */ var lib_vue_loader_options_pagesvue_type_script_lang_js = ({
   components: {
     HeaderThree: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 160)),
-    Banner: () => __webpack_require__.e(/* import() */ 75).then(__webpack_require__.bind(null, 309)),
-    Categories: () => __webpack_require__.e(/* import() */ 77).then(__webpack_require__.bind(null, 311)),
-    Course: () => __webpack_require__.e(/* import() */ 79).then(__webpack_require__.bind(null, 313)),
+    Banner: () => __webpack_require__.e(/* import() */ 75).then(__webpack_require__.bind(null, 317)),
+    Categories: () => __webpack_require__.e(/* import() */ 77).then(__webpack_require__.bind(null, 319)),
+    Course: () => __webpack_require__.e(/* import() */ 79).then(__webpack_require__.bind(null, 321)),
     LogoOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 118)),
-    Instructor: () => __webpack_require__.e(/* import() */ 81).then(__webpack_require__.bind(null, 315)),
-    FunFact: () => __webpack_require__.e(/* import() */ 202).then(__webpack_require__.bind(null, 204)),
-    FAQ: () => __webpack_require__.e(/* import() */ 80).then(__webpack_require__.bind(null, 314)),
+    Instructor: () => __webpack_require__.e(/* import() */ 81).then(__webpack_require__.bind(null, 323)),
+    FunFact: () => __webpack_require__.e(/* import() */ 202).then(__webpack_require__.bind(null, 205)),
+    FAQ: () => __webpack_require__.e(/* import() */ 80).then(__webpack_require__.bind(null, 322)),
     Event: () => __webpack_require__.e(/* import() */ 13).then(__webpack_require__.bind(null, 278)),
-    ContactInfo: () => __webpack_require__.e(/* import() */ 78).then(__webpack_require__.bind(null, 312)),
-    Blog: () => __webpack_require__.e(/* import() */ 76).then(__webpack_require__.bind(null, 310)),
+    ContactInfo: () => __webpack_require__.e(/* import() */ 78).then(__webpack_require__.bind(null, 320)),
+    Blog: () => __webpack_require__.e(/* import() */ 76).then(__webpack_require__.bind(null, 318)),
     CTA: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 275)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },

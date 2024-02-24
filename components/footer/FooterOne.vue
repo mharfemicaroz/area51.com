@@ -24,12 +24,12 @@
                   <li><span>Add:</span>Panabo City, Dava del Norte</li>
                   <li>
                     <span>Call:</span
-                    ><a href="tel:+011235641231">+01 123 5641 231</a>
+                    ><a href="tel:+639177621021">+639177621021</a>
                   </li>
                   <li>
                     <span>Email:</span
-                    ><a href="mailto:info@edublink.com" target="_blank"
-                      >info@edublink.com</a
+                    ><a href="mailto:cloydcunanan@gmail.com" target="_blank"
+                      >cloydcunanan@gmail.com</a
                     >
                   </li>
                 </ul>

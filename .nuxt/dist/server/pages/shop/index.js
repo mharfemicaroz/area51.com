@@ -135,7 +135,7 @@ var products = __webpack_require__(112);
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
     BreadCrumbTwo: () => __webpack_require__.e(/* import() */ 2).then(__webpack_require__.bind(null, 257)),
     ProductOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 151)),
-    PaginationOne: () => __webpack_require__.e(/* import() */ 11).then(__webpack_require__.bind(null, 343)),
+    PaginationOne: () => __webpack_require__.e(/* import() */ 11).then(__webpack_require__.bind(null, 342)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },
   data() {

@@ -29,7 +29,7 @@
                 data-aos-duration="1000"
               >
                 <div class="faq-thumbnail thumbnail-1">
-                  <img src="/images/faq/faq-05.jpg" alt="Faq Images" />
+                  <img src="/images/faq/1.png" alt="Faq Images" />
                 </div>
               </div>
               <div
@@ -39,7 +39,7 @@
                 data-aos-duration="1000"
               >
                 <div class="faq-thumbnail thumbnail-2">
-                  <img src="/images/faq/faq-06.jpg" alt="Faq Images" />
+                  <img src="/images/faq/2.png" alt="Faq Images" />
                 </div>
               </div>
             </div>

@@ -8,7 +8,7 @@ exports.modules = {
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=template&id=fc59b300
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=template&id=0c88d4c0
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -21,11 +21,11 @@ var render = function render() {
       "alignment": "section-left",
       "subTitle": "Explore collaborative learning opportunities and grow with the expertise of our distinguished partners."
     }
-  })], 1)]), _vm._ssrNode(" <div class=\"col-lg-7\"><div class=\"brand-grid-wrap\"><div class=\"brand-grid\"><img src=\"/images/brand/brand-01.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-02.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-03.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-04.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-05.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-06.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-07.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/brand-08.png\" alt=\"Brand Logo\"></div></div></div>")], 2)])]);
+  })], 1)]), _vm._ssrNode(" <div class=\"col-lg-7\"><div class=\"brand-grid-wrap\"><div class=\"brand-grid\"><img src=\"/images/brand/1.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/2.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/3.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/4.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/5.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/6.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/7.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/8.png\" alt=\"Brand Logo\"></div></div></div>")], 2)])]);
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/logo/LogoOne.vue?vue&type=template&id=fc59b300
+// CONCATENATED MODULE: ./components/logo/LogoOne.vue?vue&type=template&id=0c88d4c0
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=script&lang=js
 /* harmony default export */ var LogoOnevue_type_script_lang_js = ({
