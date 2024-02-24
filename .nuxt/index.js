@@ -74,7 +74,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"Area51 Portal","titleTemplate":"%s - Portal","htmlAttrs":{"lang":"zxx"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.png"}],"script":[{"src":"\u002Fjs\u002Fpace.min.js"}],"style":[]},
+    head: {"title":"Area51 Portal","titleTemplate":"Area 51 Solutions Technology - Portal","htmlAttrs":{"lang":"zxx"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.png"}],"script":[{"src":"\u002Fjs\u002Fpace.min.js"}],"style":[]},
 
     router,
     nuxt: {

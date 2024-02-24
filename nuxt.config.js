@@ -2,7 +2,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: "Area51 Portal",
-    titleTemplate: "%s - Portal",
+    titleTemplate: "Area 51 Solutions Technology - Portal",
     htmlAttrs: {
       lang: "zxx",
     },
