@@ -101,7 +101,7 @@ var parallaxAnimation = __webpack_require__(116);
 
 /* harmony default export */ var WhyChoosevue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274))
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276))
   },
   mounted() {
     Object(parallaxAnimation["a" /* default */])();

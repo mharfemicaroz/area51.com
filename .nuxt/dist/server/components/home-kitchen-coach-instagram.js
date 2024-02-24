@@ -76,7 +76,7 @@ module.exports = JSON.parse("{\"kitchenPosts\":[{\"imgSrc\":\"/images/instagram/
 
 /***/ }),
 
-/***/ 285:
+/***/ 301:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -115,7 +115,7 @@ var instagram = __webpack_require__(129);
 
 /* harmony default export */ var Instagramvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276)),
     InstagramPost: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 122))
   },
   data() {

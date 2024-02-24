@@ -39,7 +39,7 @@ var staticRenderFns = [];
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
     BreadCrumbTwo: () => __webpack_require__.e(/* import() */ 2).then(__webpack_require__.bind(null, 257)),
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },
   head() {

@@ -98,7 +98,7 @@ var external_vue_count_to_default = /*#__PURE__*/__webpack_require__.n(external_
 /* harmony default export */ var FunFactvue_type_script_lang_js = ({
   components: {
     countTo: external_vue_count_to_default.a,
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276)),
     MouseMove: () => __webpack_require__.e(/* import() */ 0).then(__webpack_require__.bind(null, 209))
   },
   data() {

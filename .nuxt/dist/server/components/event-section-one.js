@@ -134,7 +134,7 @@ var data_event = __webpack_require__(103);
 /* harmony default export */ var EventSectionOnevue_type_script_lang_js = ({
   props: ['extraClass'],
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276)),
     EventOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 121)),
     MouseMove: () => __webpack_require__.e(/* import() */ 0).then(__webpack_require__.bind(null, 209))
   },
