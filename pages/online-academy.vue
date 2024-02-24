@@ -1,53 +1,56 @@
 <template>
     <div id="main-wrapper" class="main-wrapper">
-        <HeaderThree showHeaderTop="true" />
-        
+        <HeaderOne showHeaderTop="true" />
+
         <Banner />
+        
+        <Features />
         
         <Categories />
         
+        <About />
+        
         <Course />
-        
-        <LogoOne />
-        
-        <Instructor />
         
         <FunFact />
         
-        <FAQ />
-        
-        <Event extraClass="event-area-2" />
+        <TestimonialOne />
         
         <ContactInfo />
         
+        <Instructor />
+        
+        <CTAOne />
+        
+        <LogoOne />
+        
         <Blog />
         
-        <CTA addClassName="online-academy-cta-wrapper" />
-        
-        <FooterOne />
+        <FooterTwo />
     </div>
 </template>
 
 <script>
     export default {
         components: {
-            HeaderThree: () => import("@/components/header/HeaderThree"),
-            Banner: () => import("@/components/home-online-academy/Banner"),
-            Categories: () => import("@/components/home-online-academy/Categories"),
-            Course: () => import("@/components/home-online-academy/Course"),
+            HeaderOne: () => import("@/components/header/HeaderOne"),
+            Banner: () => import("@/components/home-main/Banner"),
+            Features: () => import("@/components/home-main/Features"),
+            Categories: () => import("@/components/home-main/Categories"),
+            About: () => import("@/components/home-main/About"),
+            Course: () => import("@/components/home-main/Course"),
+            FunFact: () => import("@/components/home-main/FunFact"),
+            TestimonialOne: () => import("@/components/testimonial/TestimonialOne"),
+            ContactInfo: () => import("@/components/home-main/ContactInfo"),
+            Instructor: () => import("@/components/home-main/Instructor"),
+            CTAOne: () => import("@/components/cta/CTAOne"),
             LogoOne: () => import("@/components/logo/LogoOne"),
-            Instructor: () => import("@/components/home-online-academy/Instructor"),
-            FunFact: () => import("@/components/home-online-academy/FunFact"),
-            FAQ: () => import("@/components/home-online-academy/FAQ"),
-            Event: () => import("@/components/event/EventSectionOne"),
-            ContactInfo: () => import("@/components/home-online-academy/ContactInfo"),
-            Blog: () => import("@/components/home-online-academy/Blog"),
-            CTA: () => import("@/components/cta/CTAOne"),
-            FooterOne: () => import("@/components/footer/FooterOne")
+            Blog: () => import("@/components/home-main/Blog"),
+            FooterTwo: () => import("@/components/footer/FooterTwo")
         },
         head() {
             return {
-                title: 'Online Academy'
+                title: 'EduBlink Education'
             }
         }
     }
