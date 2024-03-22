@@ -442,10 +442,10 @@ var staticRenderFns = [];
     BreadCrumbOne: () => __webpack_require__.e(/* import() */ 5).then(__webpack_require__.bind(null, 272)),
     About: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 100)),
     LogoTwo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 168)),
-    WhyChoose: () => __webpack_require__.e(/* import() */ 20).then(__webpack_require__.bind(null, 262)),
+    WhyChoose: () => __webpack_require__.e(/* import() */ 21).then(__webpack_require__.bind(null, 262)),
     TestimonialTwo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 117)),
     FunFact: () => __webpack_require__.e(/* import() */ 195).then(__webpack_require__.bind(null, 199)),
-    Instructor: () => __webpack_require__.e(/* import() */ 19).then(__webpack_require__.bind(null, 261)),
+    Instructor: () => __webpack_require__.e(/* import() */ 20).then(__webpack_require__.bind(null, 261)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },
   head() {

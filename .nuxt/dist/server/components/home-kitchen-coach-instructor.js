@@ -1,4 +1,4 @@
-exports.ids = [59,142];
+exports.ids = [60,142];
 exports.modules = {
 
 /***/ 108:
@@ -115,7 +115,7 @@ var instructor = __webpack_require__(98);
 /* harmony default export */ var Instructorvue_type_script_lang_js = ({
   components: {
     SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
-    InstructorOne: () => __webpack_require__.e(/* import() */ 17).then(__webpack_require__.bind(null, 106)),
+    InstructorOne: () => __webpack_require__.e(/* import() */ 18).then(__webpack_require__.bind(null, 106)),
     MouseMove: () => __webpack_require__.e(/* import() */ 0).then(__webpack_require__.bind(null, 209))
   },
   data() {

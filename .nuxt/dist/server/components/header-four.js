@@ -48,7 +48,7 @@ var staticRenderFns = [];
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/header/HeaderFour.vue?vue&type=script&lang=js
 /* harmony default export */ var HeaderFourvue_type_script_lang_js = ({
   components: {
-    Navigation: () => __webpack_require__.e(/* import() */ 6).then(__webpack_require__.bind(null, 340)),
+    Navigation: () => __webpack_require__.e(/* import() */ 6).then(__webpack_require__.bind(null, 339)),
     SearchPopUp: () => __webpack_require__.e(/* import() */ 7).then(__webpack_require__.bind(null, 258)),
     ColorMode: () => __webpack_require__.e(/* import() */ 3).then(__webpack_require__.bind(null, 259)),
     OffCanvasMobileMenuOne: () => __webpack_require__.e(/* import() */ 8).then(__webpack_require__.bind(null, 260))

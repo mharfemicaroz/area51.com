@@ -10,8 +10,8 @@
               >
             </li>
             <li>
-              <a href="mailto:cunanan.cloyd@area51.ph" target="_blank"
-                ><i class="icon-envelope"></i>Email: cunanan.cloyd@area51.ph</a
+              <a href="mailto:inquiry@area51.ph" target="_blank"
+                ><i class="icon-envelope"></i>Email: inquiry@area51.ph</a
               >
             </li>
           </ul>

@@ -18,6 +18,8 @@
 
     <!-- <Event extraClass="event-area-2" /> -->
 
+    <VideoSection />
+
     <ContactInfo />
 
     <!-- <Blog /> -->
@@ -37,8 +39,6 @@
       </div>
     </div>
 
-    <CTA addClassName="online-academy-cta-wrapper" />
-
     <FooterOne />
   </div>
 </template>
@@ -47,6 +47,7 @@
 export default {
   components: {
     HeaderThree: () => import("@/components/header/HeaderThree"),
+    VideoSection: () => import("@/components/home-university/Video"),
     Banner: () => import("@/components/home-online-academy/Banner"),
     Categories: () => import("@/components/home-online-academy/Categories"),
     Course: () => import("@/components/home-online-academy/Course"),

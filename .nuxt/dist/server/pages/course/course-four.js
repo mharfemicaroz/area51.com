@@ -144,7 +144,7 @@ var course = __webpack_require__(97);
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
     BreadCrumbTwo: () => __webpack_require__.e(/* import() */ 2).then(__webpack_require__.bind(null, 257)),
-    CourseSidebarOne: () => __webpack_require__.e(/* import() */ 18).then(__webpack_require__.bind(null, 349)),
+    CourseSidebarOne: () => __webpack_require__.e(/* import() */ 19).then(__webpack_require__.bind(null, 349)),
     CourseTypeSix: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 158)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },

@@ -1,4 +1,4 @@
-exports.ids = [193,34,101,123,126,130,147];
+exports.ids = [193,35,101,123,126,130,147];
 exports.modules = {
 
 /***/ 100:
@@ -96,13 +96,13 @@ var component = Object(componentNormalizer["a" /* default */])(
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/header/HeaderTopTwo.vue?vue&type=template&id=9448698c
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/header/HeaderTopTwo.vue?vue&type=template&id=9ebed4c4
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c('div', {
     staticClass: "header-top-bar"
-  }, [_vm._ssrNode("<div class=\"container\">", "</div>", [_vm._ssrNode("<div class=\"header-top\">", "</div>", [_vm._ssrNode("<div class=\"header-top-left\"><ul class=\"header-info\"><li><a href=\"tel:+6399177621021\"><i class=\"icon-phone\"></i>Call: +6399177621021</a></li> <li><a href=\"mailto:cunanan.cloyd@area51.ph\" target=\"_blank\"><i class=\"icon-envelope\"></i>Email: cunanan.cloyd@area51.ph</a></li></ul></div> "), _vm._ssrNode("<div class=\"header-top-right\">", "</div>", [_vm._ssrNode("<ul class=\"header-info\">", "</ul>", [_vm._ssrNode("<li>", "</li>", [_c('n-link', {
+  }, [_vm._ssrNode("<div class=\"container\">", "</div>", [_vm._ssrNode("<div class=\"header-top\">", "</div>", [_vm._ssrNode("<div class=\"header-top-left\"><ul class=\"header-info\"><li><a href=\"tel:+6399177621021\"><i class=\"icon-phone\"></i>Call: +6399177621021</a></li> <li><a href=\"mailto:inquiry@area51.ph\" target=\"_blank\"><i class=\"icon-envelope\"></i>Email: inquiry@area51.ph</a></li></ul></div> "), _vm._ssrNode("<div class=\"header-top-right\">", "</div>", [_vm._ssrNode("<ul class=\"header-info\">", "</ul>", [_vm._ssrNode("<li>", "</li>", [_c('n-link', {
     attrs: {
       "to": "/"
     }
@@ -121,7 +121,7 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/header/HeaderTopTwo.vue?vue&type=template&id=9448698c
+// CONCATENATED MODULE: ./components/header/HeaderTopTwo.vue?vue&type=template&id=9ebed4c4
 
 // EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 var componentNormalizer = __webpack_require__(1);
@@ -234,10 +234,10 @@ var staticRenderFns = [];
 /* harmony default export */ var HeaderTwovue_type_script_lang_js = ({
   components: {
     HeaderTopTwo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 102)),
-    Navigation: () => __webpack_require__.e(/* import() */ 6).then(__webpack_require__.bind(null, 340)),
+    Navigation: () => __webpack_require__.e(/* import() */ 6).then(__webpack_require__.bind(null, 339)),
     SearchPopUp: () => __webpack_require__.e(/* import() */ 7).then(__webpack_require__.bind(null, 258)),
     ColorMode: () => __webpack_require__.e(/* import() */ 3).then(__webpack_require__.bind(null, 259)),
-    OffCanvasMobileMenuTwo: () => __webpack_require__.e(/* import() */ 33).then(__webpack_require__.bind(null, 278))
+    OffCanvasMobileMenuTwo: () => __webpack_require__.e(/* import() */ 34).then(__webpack_require__.bind(null, 278))
   },
   data() {
     return {
@@ -725,15 +725,15 @@ var staticRenderFns = [];
 /* harmony default export */ var universityvue_type_script_lang_js = ({
   components: {
     HeaderTwo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 152)),
-    Banner: () => __webpack_require__.e(/* import() */ 84).then(__webpack_require__.bind(null, 318)),
-    Features: () => __webpack_require__.e(/* import() */ 88).then(__webpack_require__.bind(null, 348)),
-    About: () => __webpack_require__.e(/* import() */ 83).then(__webpack_require__.bind(null, 317)),
-    FunFact: () => __webpack_require__.e(/* import() */ 203).then(__webpack_require__.bind(null, 205)),
-    Course: () => __webpack_require__.e(/* import() */ 87).then(__webpack_require__.bind(null, 320)),
-    Campus: () => __webpack_require__.e(/* import() */ 85).then(__webpack_require__.bind(null, 319)),
+    Banner: () => __webpack_require__.e(/* import() */ 85).then(__webpack_require__.bind(null, 324)),
+    Features: () => __webpack_require__.e(/* import() */ 89).then(__webpack_require__.bind(null, 348)),
+    About: () => __webpack_require__.e(/* import() */ 84).then(__webpack_require__.bind(null, 323)),
+    FunFact: () => __webpack_require__.e(/* import() */ 203).then(__webpack_require__.bind(null, 206)),
+    Course: () => __webpack_require__.e(/* import() */ 88).then(__webpack_require__.bind(null, 326)),
+    Campus: () => __webpack_require__.e(/* import() */ 86).then(__webpack_require__.bind(null, 325)),
     TestimonialThree: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 153)),
-    VideoSection: () => __webpack_require__.e(/* import() */ 89).then(__webpack_require__.bind(null, 321)),
-    ContactInfo: () => __webpack_require__.e(/* import() */ 86).then(__webpack_require__.bind(null, 347)),
+    VideoSection: () => __webpack_require__.e(/* import() */ 17).then(__webpack_require__.bind(null, 327)),
+    ContactInfo: () => __webpack_require__.e(/* import() */ 87).then(__webpack_require__.bind(null, 347)),
     Event: () => __webpack_require__.e(/* import() */ 13).then(__webpack_require__.bind(null, 277)),
     Logo: () => __webpack_require__.e(/* import() */ 98).then(__webpack_require__.bind(null, 168)),
     CTA: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 275)),

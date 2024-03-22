@@ -510,18 +510,18 @@ var staticRenderFns = [];
 /* harmony default export */ var online_academyvue_type_script_lang_js = ({
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    Banner: () => __webpack_require__.e(/* import() */ 69).then(__webpack_require__.bind(null, 311)),
-    Features: () => __webpack_require__.e(/* import() */ 74).then(__webpack_require__.bind(null, 346)),
-    Categories: () => __webpack_require__.e(/* import() */ 71).then(__webpack_require__.bind(null, 313)),
-    About: () => __webpack_require__.e(/* import() */ 68).then(__webpack_require__.bind(null, 310)),
-    Course: () => __webpack_require__.e(/* import() */ 73).then(__webpack_require__.bind(null, 315)),
+    Banner: () => __webpack_require__.e(/* import() */ 70).then(__webpack_require__.bind(null, 311)),
+    Features: () => __webpack_require__.e(/* import() */ 75).then(__webpack_require__.bind(null, 345)),
+    Categories: () => __webpack_require__.e(/* import() */ 72).then(__webpack_require__.bind(null, 313)),
+    About: () => __webpack_require__.e(/* import() */ 69).then(__webpack_require__.bind(null, 310)),
+    Course: () => __webpack_require__.e(/* import() */ 74).then(__webpack_require__.bind(null, 315)),
     FunFact: () => __webpack_require__.e(/* import() */ 201).then(__webpack_require__.bind(null, 204)),
     TestimonialOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 149)),
-    ContactInfo: () => __webpack_require__.e(/* import() */ 72).then(__webpack_require__.bind(null, 314)),
-    Instructor: () => __webpack_require__.e(/* import() */ 75).then(__webpack_require__.bind(null, 316)),
+    ContactInfo: () => __webpack_require__.e(/* import() */ 73).then(__webpack_require__.bind(null, 314)),
+    Instructor: () => __webpack_require__.e(/* import() */ 76).then(__webpack_require__.bind(null, 316)),
     CTAOne: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 275)),
     LogoOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 118)),
-    Blog: () => __webpack_require__.e(/* import() */ 70).then(__webpack_require__.bind(null, 312)),
+    Blog: () => __webpack_require__.e(/* import() */ 71).then(__webpack_require__.bind(null, 312)),
     FooterTwo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 150))
   },
   head() {

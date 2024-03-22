@@ -390,16 +390,16 @@ var staticRenderFns = [];
 /* harmony default export */ var distant_learningvue_type_script_lang_js = ({
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    Banner: () => __webpack_require__.e(/* import() */ 36).then(__webpack_require__.bind(null, 280)),
-    Categories: () => __webpack_require__.e(/* import() */ 38).then(__webpack_require__.bind(null, 282)),
-    About: () => __webpack_require__.e(/* import() */ 35).then(__webpack_require__.bind(null, 279)),
-    Course: () => __webpack_require__.e(/* import() */ 39).then(__webpack_require__.bind(null, 283)),
-    VideoSection: () => __webpack_require__.e(/* import() */ 42).then(__webpack_require__.bind(null, 286)),
+    Banner: () => __webpack_require__.e(/* import() */ 37).then(__webpack_require__.bind(null, 280)),
+    Categories: () => __webpack_require__.e(/* import() */ 39).then(__webpack_require__.bind(null, 282)),
+    About: () => __webpack_require__.e(/* import() */ 36).then(__webpack_require__.bind(null, 279)),
+    Course: () => __webpack_require__.e(/* import() */ 40).then(__webpack_require__.bind(null, 283)),
+    VideoSection: () => __webpack_require__.e(/* import() */ 43).then(__webpack_require__.bind(null, 286)),
     FunFact: () => __webpack_require__.e(/* import() */ 198).then(__webpack_require__.bind(null, 201)),
     TestimonialTwo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 117)),
-    Logo: () => __webpack_require__.e(/* import() */ 41).then(__webpack_require__.bind(null, 285)),
-    FAQ: () => __webpack_require__.e(/* import() */ 40).then(__webpack_require__.bind(null, 284)),
-    Blog: () => __webpack_require__.e(/* import() */ 37).then(__webpack_require__.bind(null, 281)),
+    Logo: () => __webpack_require__.e(/* import() */ 42).then(__webpack_require__.bind(null, 285)),
+    FAQ: () => __webpack_require__.e(/* import() */ 41).then(__webpack_require__.bind(null, 284)),
+    Blog: () => __webpack_require__.e(/* import() */ 38).then(__webpack_require__.bind(null, 281)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },
   head() {

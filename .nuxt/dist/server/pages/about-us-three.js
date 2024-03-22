@@ -119,13 +119,13 @@ var staticRenderFns = [];
 /* harmony default export */ var about_us_threevue_type_script_lang_js = ({
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    BreadCrumbThree: () => __webpack_require__.e(/* import() */ 31).then(__webpack_require__.bind(null, 273)),
-    About: () => __webpack_require__.e(/* import() */ 196).then(__webpack_require__.bind(null, 338)),
+    BreadCrumbThree: () => __webpack_require__.e(/* import() */ 32).then(__webpack_require__.bind(null, 273)),
+    About: () => __webpack_require__.e(/* import() */ 196).then(__webpack_require__.bind(null, 337)),
     FunFact: () => __webpack_require__.e(/* import() */ 197).then(__webpack_require__.bind(null, 200)),
-    WhyChoose: () => __webpack_require__.e(/* import() */ 24).then(__webpack_require__.bind(null, 266)),
-    ContactInfo: () => __webpack_require__.e(/* import() */ 21).then(__webpack_require__.bind(null, 263)),
-    Instructor: () => __webpack_require__.e(/* import() */ 22).then(__webpack_require__.bind(null, 264)),
-    Testimonial: () => __webpack_require__.e(/* import() */ 23).then(__webpack_require__.bind(null, 265)),
+    WhyChoose: () => __webpack_require__.e(/* import() */ 25).then(__webpack_require__.bind(null, 266)),
+    ContactInfo: () => __webpack_require__.e(/* import() */ 22).then(__webpack_require__.bind(null, 263)),
+    Instructor: () => __webpack_require__.e(/* import() */ 23).then(__webpack_require__.bind(null, 264)),
+    Testimonial: () => __webpack_require__.e(/* import() */ 24).then(__webpack_require__.bind(null, 265)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },
   head() {

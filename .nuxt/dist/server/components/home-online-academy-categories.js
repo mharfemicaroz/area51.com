@@ -1,14 +1,14 @@
-exports.ids = [78];
+exports.ids = [79];
 exports.modules = {
 
-/***/ 324:
+/***/ 319:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Categories.vue?vue&type=template&id=01dfeac8
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Categories.vue?vue&type=template&id=c962bf36
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -31,7 +31,7 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/home-online-academy/Categories.vue?vue&type=template&id=01dfeac8
+// CONCATENATED MODULE: ./components/home-online-academy/Categories.vue?vue&type=template&id=c962bf36
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Categories.vue?vue&type=script&lang=js
 /* harmony default export */ var Categoriesvue_type_script_lang_js = ({
@@ -57,31 +57,10 @@ var staticRenderFns = [];
         iconClass: "ri-kakao-talk-fill",
         colorClass: "color-tertiary-style"
       }, {
-        title: "Data Analytics",
-        iconClass: "ri-bar-chart-2-fill",
-        colorClass: "color-extra02-style"
-      }, {
         title: "Network Solutions",
         iconClass: "ri-link-m",
         colorClass: "color-extra07-style",
         extraClass: "network-icon"
-      }, {
-        title: "Tech Support",
-        iconClass: "ri-question-answer-fill",
-        colorClass: "color-extra06-style"
-      }, {
-        title: "Digital Products",
-        iconClass: "ri-image-2-fill",
-        colorClass: "color-extra03-style",
-        extraClass: "transformation-icon"
-      }, {
-        title: "Enterprise",
-        iconClass: "ri-shopping-bag-2-fill",
-        colorClass: "color-extra01-style"
-      }, {
-        title: "Blockchain",
-        iconClass: "ri-money-dollar-box-fill",
-        colorClass: "color-extra05-style"
       }, {
         title: "AI",
         iconClass: "ri-lightbulb-flash-line",

@@ -69,36 +69,10 @@ export default {
           colorClass: "color-tertiary-style",
         },
         {
-          title: "Data Analytics",
-          iconClass: "ri-bar-chart-2-fill",
-          colorClass: "color-extra02-style",
-        },
-        {
           title: "Network Solutions",
           iconClass: "ri-link-m",
           colorClass: "color-extra07-style",
           extraClass: "network-icon",
-        },
-        {
-          title: "Tech Support",
-          iconClass: "ri-question-answer-fill",
-          colorClass: "color-extra06-style",
-        },
-        {
-          title: "Digital Products",
-          iconClass: "ri-image-2-fill",
-          colorClass: "color-extra03-style",
-          extraClass: "transformation-icon",
-        },
-        {
-          title: "Enterprise",
-          iconClass: "ri-shopping-bag-2-fill",
-          colorClass: "color-extra01-style",
-        },
-        {
-          title: "Blockchain",
-          iconClass: "ri-money-dollar-box-fill",
-          colorClass: "color-extra05-style",
         },
         {
           title: "AI",

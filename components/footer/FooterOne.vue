@@ -31,8 +31,8 @@
                   </li>
                   <li>
                     <span>Email:</span
-                    ><a href="mailto:cunanan.cloyd@area51.ph" target="_blank"
-                      >cunanan.cloyd@area51.ph</a
+                    ><a href="mailto:inquiry@area51.ph" target="_blank"
+                      >inquiry@area51.ph</a
                     >
                   </li>
                 </ul>

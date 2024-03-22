@@ -244,7 +244,7 @@ var blog = __webpack_require__(99);
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
     BreadCrumbTwo: () => __webpack_require__.e(/* import() */ 2).then(__webpack_require__.bind(null, 257)),
-    BlogSidebarOne: () => __webpack_require__.e(/* import() */ 9).then(__webpack_require__.bind(null, 337)),
+    BlogSidebarOne: () => __webpack_require__.e(/* import() */ 9).then(__webpack_require__.bind(null, 336)),
     BlogPostStandard: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 156)),
     CTAOne: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 275)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
