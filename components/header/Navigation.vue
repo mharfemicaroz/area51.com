@@ -23,11 +23,11 @@
     </li>
 
     <li class="">
-      <n-link to="">News</n-link>
+      <n-link to="/">News</n-link>
     </li>
 
     <li class="">
-      <n-link to="">Contact</n-link>
+      <n-link to="/contact-us">Contact</n-link>
     </li>
   </ul>
 </template>

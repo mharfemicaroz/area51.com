@@ -12,7 +12,7 @@
               Technology Solutions. Explore Now!
             </p>
             <div class="banner-btn">
-              <n-link to="/course/course-one" class="edu-btn"
+              <n-link to="/contact-us" class="edu-btn"
                 >Contact Us Now <i class="icon-4"></i
               ></n-link>
             </div>

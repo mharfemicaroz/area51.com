@@ -19,7 +19,7 @@ module.exports.__inject__ = function (context) {
 
 /***/ }),
 
-/***/ 163:
+/***/ 162:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -159,7 +159,7 @@ var course = __webpack_require__(97);
 /* harmony default export */ var Coursevue_type_script_lang_js = ({
   components: {
     SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
-    CourseTypeEight: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 163))
+    CourseTypeEight: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 162))
   },
   data() {
     return {
@@ -222,7 +222,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 /* harmony default export */ var Course = __webpack_exports__["default"] = (component.exports);
 
 /* nuxt-component-imports */
-installComponents(component, {CourseTypeEight: __webpack_require__(163).default})
+installComponents(component, {CourseTypeEight: __webpack_require__(162).default})
 
 
 /***/ }),

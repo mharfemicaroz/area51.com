@@ -256,18 +256,18 @@ var staticRenderFns = [];
 /* harmony default export */ var kitchen_coachvue_type_script_lang_js = ({
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    Banner: () => __webpack_require__.e(/* import() */ 53).then(__webpack_require__.bind(null, 296)),
+    Banner: () => __webpack_require__.e(/* import() */ 53).then(__webpack_require__.bind(null, 302)),
     Features: () => __webpack_require__.e(/* import() */ 58).then(__webpack_require__.bind(null, 343)),
-    About: () => __webpack_require__.e(/* import() */ 52).then(__webpack_require__.bind(null, 295)),
+    About: () => __webpack_require__.e(/* import() */ 52).then(__webpack_require__.bind(null, 301)),
     Logo: () => __webpack_require__.e(/* import() */ 61).then(__webpack_require__.bind(null, 344)),
-    Course: () => __webpack_require__.e(/* import() */ 56).then(__webpack_require__.bind(null, 298)),
-    Testimonial: () => __webpack_require__.e(/* import() */ 62).then(__webpack_require__.bind(null, 303)),
-    FunFact: () => __webpack_require__.e(/* import() */ 199).then(__webpack_require__.bind(null, 202)),
-    Instructor: () => __webpack_require__.e(/* import() */ 60).then(__webpack_require__.bind(null, 302)),
-    FAQ: () => __webpack_require__.e(/* import() */ 57).then(__webpack_require__.bind(null, 300)),
-    CTA: () => __webpack_require__.e(/* import() */ 55).then(__webpack_require__.bind(null, 299)),
-    Blog: () => __webpack_require__.e(/* import() */ 54).then(__webpack_require__.bind(null, 297)),
-    Instagram: () => __webpack_require__.e(/* import() */ 59).then(__webpack_require__.bind(null, 301)),
+    Course: () => __webpack_require__.e(/* import() */ 56).then(__webpack_require__.bind(null, 304)),
+    Testimonial: () => __webpack_require__.e(/* import() */ 62).then(__webpack_require__.bind(null, 309)),
+    FunFact: () => __webpack_require__.e(/* import() */ 199).then(__webpack_require__.bind(null, 203)),
+    Instructor: () => __webpack_require__.e(/* import() */ 60).then(__webpack_require__.bind(null, 308)),
+    FAQ: () => __webpack_require__.e(/* import() */ 57).then(__webpack_require__.bind(null, 306)),
+    CTA: () => __webpack_require__.e(/* import() */ 55).then(__webpack_require__.bind(null, 305)),
+    Blog: () => __webpack_require__.e(/* import() */ 54).then(__webpack_require__.bind(null, 303)),
+    Instagram: () => __webpack_require__.e(/* import() */ 59).then(__webpack_require__.bind(null, 307)),
     FooterKitchen: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 145))
   },
   head() {
