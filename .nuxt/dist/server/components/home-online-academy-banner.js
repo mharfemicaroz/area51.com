@@ -1,20 +1,20 @@
-exports.ids = [75];
+exports.ids = [76];
 exports.modules = {
 
-/***/ 317:
+/***/ 322:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Banner.vue?vue&type=template&id=15e71536
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Banner.vue?vue&type=template&id=7db051e2
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c('div', {
     staticClass: "hero-banner hero-style-4 bg-image bg-image--18"
-  }, [_vm._ssrNode("<div class=\"container\">", "</div>", [_vm._ssrNode("<div class=\"row justify-content-center\">", "</div>", [_vm._ssrNode("<div class=\"col-lg-8\">", "</div>", [_vm._ssrNode("<div class=\"banner-content\">", "</div>", [_vm._ssrNode("<h1 class=\"title\">\n            The Davao's Leading Digital Platforms and Solutions Provider\n          </h1> <p>\n            Discover Innovation: From Vision to Reality with Our Software\n            Solutions. Explore Now!\n          </p> "), _vm._ssrNode("<div class=\"banner-btn\">", "</div>", [_c('n-link', {
+  }, [_vm._ssrNode("<div class=\"container\">", "</div>", [_vm._ssrNode("<div class=\"row justify-content-center\">", "</div>", [_vm._ssrNode("<div class=\"col-lg-8\">", "</div>", [_vm._ssrNode("<div class=\"banner-content\">", "</div>", [_vm._ssrNode("<h1 class=\"title\">\n            Davao's Leading Digital Platforms and Solutions Provider\n          </h1> <p>\n            Enhancing Your Everyday Experience with Quality Systems and\n            Technology Solutions. Explore Now!\n          </p> "), _vm._ssrNode("<div class=\"banner-btn\">", "</div>", [_c('n-link', {
     staticClass: "edu-btn",
     attrs: {
       "to": "/course/course-one"
@@ -88,7 +88,7 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/home-online-academy/Banner.vue?vue&type=template&id=15e71536
+// CONCATENATED MODULE: ./components/home-online-academy/Banner.vue?vue&type=template&id=7db051e2
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Banner.vue?vue&type=script&lang=js
 /* harmony default export */ var Bannervue_type_script_lang_js = ({

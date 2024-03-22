@@ -5,7 +5,7 @@
     <div class="container edublink-animated-shape">
       <SectionTitle
         preTitle="Popular Products"
-        title="Choose A Product To Get Started"
+        title="Our Top-of-the-Line Quality Products"
         alignment="section-center"
       />
 
@@ -27,7 +27,7 @@
         data-aos="fade-up"
         data-aos-duration="1200"
       >
-        <n-link to="/course/course-one" class="edu-btn"
+        <n-link to="/" class="edu-btn"
           >Browse more products <i class="icon-4"></i
         ></n-link>
       </div>

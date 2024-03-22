@@ -21,15 +21,18 @@
               </p>
               <div class="widget-information">
                 <ul class="information-list">
-                  <li><span>Add:</span>Panabo City, Dava del Norte</li>
+                  <li>
+                    <span>Add:</span>Door 2, Zamoras Building, Glodo St. San
+                    Francisco, Panabo City, Davao del Norte
+                  </li>
                   <li>
                     <span>Call:</span
                     ><a href="tel:+639177621021">+639177621021</a>
                   </li>
                   <li>
                     <span>Email:</span
-                    ><a href="mailto:cloydcunanan@gmail.com" target="_blank"
-                      >cloydcunanan@gmail.com</a
+                    ><a href="mailto:cunanan.cloyd@area51.ph" target="_blank"
+                      >cunanan.cloyd@area51.ph</a
                     >
                   </li>
                 </ul>
@@ -41,12 +44,12 @@
               <h4 class="widget-title">Online Platform</h4>
               <div class="inner">
                 <ul class="footer-link link-hover">
-                  <li><n-link to="/about-us">About Us</n-link></li>
-                  <li><n-link to="/services">IT Services</n-link></li>
-                  <li><n-link to="/solutions">Solutions</n-link></li>
-                  <li><n-link to="/case-studies">Case Studies</n-link></li>
-                  <li><n-link to="/blog">Blog</n-link></li>
-                  <li><n-link to="/contact">Contact Us</n-link></li>
+                  <li><n-link to="/">About Us</n-link></li>
+                  <li><n-link to="/">IT Services</n-link></li>
+                  <li><n-link to="/">Solutions</n-link></li>
+                  <li><n-link to="/">Case Studies</n-link></li>
+                  <li><n-link to="/">Blog</n-link></li>
+                  <li><n-link to="/">Contact Us</n-link></li>
                 </ul>
               </div>
             </div>
@@ -56,14 +59,14 @@
               <h4 class="widget-title">Links</h4>
               <div class="inner">
                 <ul class="footer-link link-hover">
-                  <li><n-link to="/faq">FAQ's</n-link></li>
-                  <li><n-link to="/gallery-grid">Gallery</n-link></li>
+                  <li><n-link to="/">FAQ's</n-link></li>
+                  <li><n-link to="/">Gallery</n-link></li>
                   <li>
-                    <n-link to="/blog/blog-standard">News & Articles</n-link>
+                    <n-link to="/">News & Articles</n-link>
                   </li>
-                  <li><n-link to="/privacy-policy">Privacy Policy</n-link></li>
-                  <li><n-link to="/my-account">Sign In</n-link></li>
-                  <li><n-link to="/contact-us">Contact Us</n-link></li>
+                  <li><n-link to="/">Privacy Policy</n-link></li>
+                  <li><n-link to="/">Sign In</n-link></li>
+                  <li><n-link to="/">Contact Us</n-link></li>
                 </ul>
               </div>
             </div>
@@ -89,7 +92,7 @@
                 <ul class="social-share icon-transparent">
                   <li>
                     <a
-                      href="https://facebook.com/"
+                      href="https://www.facebook.com/profile.php?id=61557188409279&sk=about"
                       target="_blank"
                       class="color-fb"
                       ><i class="icon-facebook"></i

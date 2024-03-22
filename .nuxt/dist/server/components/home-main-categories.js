@@ -1,4 +1,4 @@
-exports.ids = [70];
+exports.ids = [71];
 exports.modules = {
 
 /***/ 313:
@@ -31,7 +31,7 @@ var staticRenderFns = [];
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-main/Categories.vue?vue&type=script&lang=js
 /* harmony default export */ var Categoriesvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276))
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274))
   },
   data() {
     return {

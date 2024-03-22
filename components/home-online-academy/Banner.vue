@@ -5,11 +5,11 @@
         <div class="col-lg-8">
           <div class="banner-content">
             <h1 class="title">
-              The Davao's Leading Digital Platforms and Solutions Provider
+              Davao's Leading Digital Platforms and Solutions Provider
             </h1>
             <p>
-              Discover Innovation: From Vision to Reality with Our Software
-              Solutions. Explore Now!
+              Enhancing Your Everyday Experience with Quality Systems and
+              Technology Solutions. Explore Now!
             </p>
             <div class="banner-btn">
               <n-link to="/course/course-one" class="edu-btn"

@@ -1,4 +1,4 @@
-exports.ids = [81,143];
+exports.ids = [82,143];
 exports.modules = {
 
 /***/ 107:
@@ -67,7 +67,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 323:
+/***/ 328:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -105,7 +105,7 @@ var instructor = __webpack_require__(98);
 
 /* harmony default export */ var Instructorvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
     InstructorTwo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 107))
   },
   data() {

@@ -1,4 +1,4 @@
-exports.ids = [180,100,120,125];
+exports.ids = [180,101,121,126];
 exports.modules = {
 
 /***/ 100:
@@ -57,7 +57,7 @@ var staticRenderFns = [];
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/about-us-one/About.vue?vue&type=script&lang=js
 /* harmony default export */ var Aboutvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
     MouseMove: () => __webpack_require__.e(/* import() */ 0).then(__webpack_require__.bind(null, 209))
   }
 });
@@ -256,18 +256,18 @@ var staticRenderFns = [];
 /* harmony default export */ var kitchen_coachvue_type_script_lang_js = ({
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    Banner: () => __webpack_require__.e(/* import() */ 51).then(__webpack_require__.bind(null, 296)),
-    Features: () => __webpack_require__.e(/* import() */ 56).then(__webpack_require__.bind(null, 344)),
-    About: () => __webpack_require__.e(/* import() */ 50).then(__webpack_require__.bind(null, 295)),
-    Logo: () => __webpack_require__.e(/* import() */ 59).then(__webpack_require__.bind(null, 345)),
-    Course: () => __webpack_require__.e(/* import() */ 54).then(__webpack_require__.bind(null, 298)),
-    Testimonial: () => __webpack_require__.e(/* import() */ 60).then(__webpack_require__.bind(null, 303)),
+    Banner: () => __webpack_require__.e(/* import() */ 52).then(__webpack_require__.bind(null, 296)),
+    Features: () => __webpack_require__.e(/* import() */ 57).then(__webpack_require__.bind(null, 344)),
+    About: () => __webpack_require__.e(/* import() */ 51).then(__webpack_require__.bind(null, 295)),
+    Logo: () => __webpack_require__.e(/* import() */ 60).then(__webpack_require__.bind(null, 345)),
+    Course: () => __webpack_require__.e(/* import() */ 55).then(__webpack_require__.bind(null, 298)),
+    Testimonial: () => __webpack_require__.e(/* import() */ 61).then(__webpack_require__.bind(null, 303)),
     FunFact: () => __webpack_require__.e(/* import() */ 199).then(__webpack_require__.bind(null, 202)),
-    Instructor: () => __webpack_require__.e(/* import() */ 58).then(__webpack_require__.bind(null, 302)),
-    FAQ: () => __webpack_require__.e(/* import() */ 55).then(__webpack_require__.bind(null, 300)),
-    CTA: () => __webpack_require__.e(/* import() */ 53).then(__webpack_require__.bind(null, 299)),
-    Blog: () => __webpack_require__.e(/* import() */ 52).then(__webpack_require__.bind(null, 297)),
-    Instagram: () => __webpack_require__.e(/* import() */ 57).then(__webpack_require__.bind(null, 301)),
+    Instructor: () => __webpack_require__.e(/* import() */ 59).then(__webpack_require__.bind(null, 302)),
+    FAQ: () => __webpack_require__.e(/* import() */ 56).then(__webpack_require__.bind(null, 300)),
+    CTA: () => __webpack_require__.e(/* import() */ 54).then(__webpack_require__.bind(null, 299)),
+    Blog: () => __webpack_require__.e(/* import() */ 53).then(__webpack_require__.bind(null, 297)),
+    Instagram: () => __webpack_require__.e(/* import() */ 58).then(__webpack_require__.bind(null, 301)),
     FooterKitchen: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 145))
   },
   head() {

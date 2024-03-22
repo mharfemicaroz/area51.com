@@ -1,14 +1,14 @@
-exports.ids = [77];
+exports.ids = [78];
 exports.modules = {
 
-/***/ 319:
+/***/ 324:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Categories.vue?vue&type=template&id=035846d4
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Categories.vue?vue&type=template&id=01dfeac8
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -31,12 +31,12 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/home-online-academy/Categories.vue?vue&type=template&id=035846d4
+// CONCATENATED MODULE: ./components/home-online-academy/Categories.vue?vue&type=template&id=01dfeac8
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Categories.vue?vue&type=script&lang=js
 /* harmony default export */ var Categoriesvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276))
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274))
   },
   data() {
     return {
@@ -82,6 +82,26 @@ var staticRenderFns = [];
         title: "Blockchain",
         iconClass: "ri-money-dollar-box-fill",
         colorClass: "color-extra05-style"
+      }, {
+        title: "AI",
+        iconClass: "ri-lightbulb-flash-line",
+        colorClass: "color-extra05-style"
+      }, {
+        title: "Biometrics",
+        iconClass: "ri-fingerprint-2-line",
+        colorClass: "color-extra02-style"
+      }, {
+        title: "CCTV",
+        iconClass: "ri-tv-2-fill",
+        colorClass: "color-extra01-style"
+      }, {
+        title: "GPS",
+        iconClass: "ri-signal-tower-line",
+        colorClass: "color-extra04-style"
+      }, {
+        title: "Barrier Gates",
+        iconClass: "ri-barricade-line",
+        colorClass: "color-extra03-style"
       }]
     };
   }

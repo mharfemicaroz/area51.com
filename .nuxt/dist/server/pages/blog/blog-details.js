@@ -43,9 +43,9 @@ var blog = __webpack_require__(99);
 /* harmony default export */ var blog_detailsvue_type_script_lang_js = ({
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    BreadCrumbOne: () => __webpack_require__.e(/* import() */ 5).then(__webpack_require__.bind(null, 274)),
+    BreadCrumbOne: () => __webpack_require__.e(/* import() */ 5).then(__webpack_require__.bind(null, 272)),
     BlogSidebarOne: () => __webpack_require__.e(/* import() */ 9).then(__webpack_require__.bind(null, 337)),
-    CTAOne: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 272)),
+    CTAOne: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 275)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },
   data() {

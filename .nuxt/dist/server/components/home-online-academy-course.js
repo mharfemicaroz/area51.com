@@ -1,4 +1,4 @@
-exports.ids = [79,110];
+exports.ids = [80,111];
 exports.modules = {
 
 /***/ 165:
@@ -66,14 +66,14 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 321:
+/***/ 326:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Course.vue?vue&type=template&id=9cd928c0
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-online-academy/Course.vue?vue&type=template&id=76b7a17e
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -82,7 +82,7 @@ var render = function render() {
   }, [_vm._ssrNode("<div class=\"container edublink-animated-shape\">", "</div>", [_c('SectionTitle', {
     attrs: {
       "preTitle": "Popular Products",
-      "title": "Choose A Product To Get Started",
+      "title": "Our Top-of-the-Line Quality Products",
       "alignment": "section-center"
     }
   }), _vm._ssrNode(" "), _vm._ssrNode("<div class=\"row g-5\">", "</div>", _vm._l(_vm.courseData.courses.slice(0, 4), function (course) {
@@ -94,7 +94,7 @@ var render = function render() {
   }), 0), _vm._ssrNode(" "), _vm._ssrNode("<div data-aos-delay=\"150\" data-aos=\"fade-up\" data-aos-duration=\"1200\" class=\"course-view-all\">", "</div>", [_c('n-link', {
     staticClass: "edu-btn",
     attrs: {
-      "to": "/course/course-one"
+      "to": "/"
     }
   }, [_vm._v("Browse more products "), _c('i', {
     staticClass: "icon-4"
@@ -118,7 +118,7 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/home-online-academy/Course.vue?vue&type=template&id=9cd928c0
+// CONCATENATED MODULE: ./components/home-online-academy/Course.vue?vue&type=template&id=76b7a17e
 
 // EXTERNAL MODULE: ./data/course.json
 var course = __webpack_require__(97);
@@ -127,7 +127,7 @@ var course = __webpack_require__(97);
 
 /* harmony default export */ var Coursevue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
     CourseTypeFour: () => __webpack_require__.e(/* import() */ 32).then(__webpack_require__.bind(null, 120)),
     MouseMove: () => __webpack_require__.e(/* import() */ 0).then(__webpack_require__.bind(null, 209))
   },

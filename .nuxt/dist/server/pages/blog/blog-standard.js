@@ -1,4 +1,4 @@
-exports.ids = [155,106];
+exports.ids = [155,107];
 exports.modules = {
 
 /***/ 114:
@@ -246,7 +246,7 @@ var blog = __webpack_require__(99);
     BreadCrumbTwo: () => __webpack_require__.e(/* import() */ 2).then(__webpack_require__.bind(null, 257)),
     BlogSidebarOne: () => __webpack_require__.e(/* import() */ 9).then(__webpack_require__.bind(null, 337)),
     BlogPostStandard: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 156)),
-    CTAOne: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 272)),
+    CTAOne: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 275)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },
   data() {

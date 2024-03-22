@@ -1,4 +1,4 @@
-exports.ids = [176,111];
+exports.ids = [176,112];
 exports.modules = {
 
 /***/ 105:
@@ -124,7 +124,7 @@ var course = __webpack_require__(97);
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
     BreadCrumbTwo: () => __webpack_require__.e(/* import() */ 2).then(__webpack_require__.bind(null, 257)),
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
     CourseTypeOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 105)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },

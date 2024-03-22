@@ -2,69 +2,72 @@
     Variables
 -------------------------*/
 :root {
-    //Themes colors
-    --color-primary: #1ab69d;
-    --color-secondary: #ee4a62;
-    --color-textSecondary: #ff5b5c;
-    --color-tertiary: #f8b81f;
-    --color-dark: #111212;
-    --color-heading: #181818;
-    --dark-color-heading: #ffffff;
-    --color-border: #e5e5e5;
-    --dark-color-border: #282f3a;
-    --color-body: #808080;
-    --gradient-primary: linear-gradient(-90deg, #31b978 0%, #1ab69d 100%);
-    --bg-color: #EAF0F2;
-    --dark-bg-color: #020b17;
-    --cta-color-bg:#F0F4F5;
-    --color-bg-body:#ffffff;
-    --dark-color-bg-body:#111822;
-    --bg-color-2: #1c242f;
-    // Typo Color 
-    --color-white: #ffffff;
-    --color-black: #000000;
-    --footer-text: #181818;
-    --dark-footer-text: #808080;
-    --edu-btn-color: #ffffff;
-    --color-title: #bababa;
+/* Primary Theme Colors */
+--color-primary: #4A90E2; /* Adjusted to match the logo's prominent color */
+--color-secondary: #F5A623; /* Complementary secondary color derived from the logo */
+--color-tertiary: #7ED321; /* Tertiary color accent from the logo's palette */
 
-    // Lighten Color
+/* Secondary Theme Colors */
+--color-textSecondary: #D0021B; /* Bright color for secondary text */
+--color-dark: #4A4A4A; /* Dark shade for dark themes */
+--color-heading: #8B572A; /* Color for headings, matched with logo */
+--dark-color-heading: #FFFFFF; /* White for headings on dark backgrounds */
+--color-border: #B8E986; /* Light border color from logo's lighter tones */
+--dark-color-border: #4A4A4A; /* Dark border for contrast */
+--color-body: #9B9B9B; /* Neutral body text color */
+--gradient-primary: linear-gradient(-90deg, #50E3C2 0%, #4A90E2 100%); /* Gradient based on logo colors */
+--bg-color: #EAF0F2; /* Light background color */
+--dark-bg-color: #020b17; /* Dark background color for dark themes */
+--cta-color-bg:#F0F4F5; /* Call-to-action background */
+--color-bg-body:#ffffff; /* Main body background color */
+--dark-color-bg-body:#111822; /* Dark theme body background */
+--bg-color-2: #1c242f; /* Additional background color for sections */
 
-    --color-lighten01: #f0f4f5; 
-    --color-lighten02: #edf5f8; 
-    --color-lighten03: #f5f1eb; 
-    --color-lighten04: #f7f5f2; 
+/* Typography Colors */
+--color-white: #ffffff; /* White color for text */
+--color-black: #000000; /* Black color for text */
+--footer-text: #8B572A; /* Footer text color matched with the logo */
+--dark-footer-text: #808080; /* Dark theme footer text */
+--edu-btn-color: #ffffff; /* Button text color for educational buttons */
+--color-title: #8B572A; /* Title color matched with logo */
 
-    // Extra Color 
-    --color-extra01: #0ecd73;
-    --color-extra02: #8e56ff;
-    --color-extra03: #f92596;
-    --color-extra04: #5866eb;
-    --color-extra05: #f8941f;
-    --color-extra06: #39c0fa;
-    --color-extra07: #da04f8;
-    --color-extra08: #4664e4;
-    --color-extra09: #525151;
-    --color-extra10: #404040;
-    --color-extra11: #22272e;
+/* Lighten Colors */
+--color-lighten01: #f0f4f5; 
+--color-lighten02: #edf5f8; 
+--color-lighten03: #f5f1eb; 
+--color-lighten04: #f7f5f2; 
 
-    // Notify Colors 
-    --color-success: #3EB75E;
-    --color-danger: #FF0003;
-    --color-warning: #FF8F3C;
-    --color-info: #1BA2DB;
-    --color-placeholder: #808080;
+/* Extra Colors */
+--color-extra01: #0ecd73;
+--color-extra02: #8e56ff;
+--color-extra03: #f92596;
+--color-extra04: #5866eb;
+--color-extra05: #f8941f;
+--color-extra06: #39c0fa;
+--color-extra07: #da04f8;
+--color-extra08: #4664e4;
+--color-extra09: #525151;
+--color-extra10: #404040;
+--color-extra11: #22272e;
 
-    //Social icon colors
-    --color-facebook: #1877f2;
-    --color-twitter: #1da1f2;
-    --color-youtube: #cd201f;
-    --color-linkedin: #0a66c2;
-    --color-pinterest: #E60022;
-    --color-instagram: #C231A1;
-    --color-vimeo: #00ADEF;
-    --color-twitch: #6441A3;
-    --color-discord: #7289da;
+/* Notification Colors */
+--color-success: #7ED321; /* Success color adjusted to match logo */
+--color-danger: #D0021B; /* Danger color for alerts */
+--color-warning: #F5A623; /* Warning color adjusted to match logo */
+--color-info: #4A90E2; /* Information color matched with primary theme */
+--color-placeholder: #9B9B9B; /* Placeholder text color */
+
+/* Social Icon Colors */
+--color-facebook: #1877f2;
+--color-twitter: #1da1f2;
+--color-youtube: #cd201f;
+--color-linkedin: #0a66c2;
+--color-pinterest: #E60022;
+--color-instagram: #C231A1;
+--color-vimeo: #00ADEF;
+--color-twitch: #6441A3;
+--color-discord: #7289da;
+
     
     //Border-radius
     --border-width: 2px;

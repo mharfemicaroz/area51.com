@@ -1,4 +1,4 @@
-exports.ids = [72,111];
+exports.ids = [73,112];
 exports.modules = {
 
 /***/ 105:
@@ -122,7 +122,7 @@ var course = __webpack_require__(97);
 
 /* harmony default export */ var Coursevue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
     CourseTypeOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 105))
   },
   data() {

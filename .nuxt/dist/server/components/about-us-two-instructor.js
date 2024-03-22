@@ -105,7 +105,7 @@ var instructor = __webpack_require__(98);
 
 /* harmony default export */ var Instructorvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
     InstructorFive: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 161))
   },
   data() {

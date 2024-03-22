@@ -100,6 +100,31 @@ export default {
           iconClass: "ri-money-dollar-box-fill",
           colorClass: "color-extra05-style",
         },
+        {
+          title: "AI",
+          iconClass: "ri-lightbulb-flash-line",
+          colorClass: "color-extra05-style",
+        },
+        {
+          title: "Biometrics",
+          iconClass: "ri-fingerprint-2-line",
+          colorClass: "color-extra02-style",
+        },
+        {
+          title: "CCTV",
+          iconClass: "ri-tv-2-fill",
+          colorClass: "color-extra01-style",
+        },
+        {
+          title: "GPS",
+          iconClass: "ri-signal-tower-line",
+          colorClass: "color-extra04-style",
+        },
+        {
+          title: "Barrier Gates",
+          iconClass: "ri-barricade-line",
+          colorClass: "color-extra03-style",
+        },
       ],
     };
   },

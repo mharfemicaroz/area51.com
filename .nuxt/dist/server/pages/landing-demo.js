@@ -1,4 +1,4 @@
-exports.ids = [181,121,125,127,131];
+exports.ids = [181,122,126,128,131];
 exports.modules = {
 
 /***/ 146:
@@ -180,7 +180,7 @@ var staticRenderFns = [];
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-landing-demo/HomeDemo.vue?vue&type=script&lang=js
 /* harmony default export */ var HomeDemovue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276))
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274))
   },
   data() {
     return {
@@ -349,14 +349,14 @@ var staticRenderFns = [];
 /* harmony default export */ var landing_demovue_type_script_lang_js = ({
   components: {
     HeaderLanding: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 146)),
-    Banner: () => __webpack_require__.e(/* import() */ 61).then(__webpack_require__.bind(null, 304)),
+    Banner: () => __webpack_require__.e(/* import() */ 62).then(__webpack_require__.bind(null, 304)),
     FunFact: () => __webpack_require__.e(/* import() */ 200).then(__webpack_require__.bind(null, 203)),
     HomeDemo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 147)),
-    LearnWith: () => __webpack_require__.e(/* import() */ 65).then(__webpack_require__.bind(null, 308)),
-    CourseLayout: () => __webpack_require__.e(/* import() */ 62).then(__webpack_require__.bind(null, 305)),
-    ShopLayout: () => __webpack_require__.e(/* import() */ 66).then(__webpack_require__.bind(null, 309)),
-    Features: () => __webpack_require__.e(/* import() */ 63).then(__webpack_require__.bind(null, 306)),
-    InnerPages: () => __webpack_require__.e(/* import() */ 64).then(__webpack_require__.bind(null, 307)),
+    LearnWith: () => __webpack_require__.e(/* import() */ 66).then(__webpack_require__.bind(null, 308)),
+    CourseLayout: () => __webpack_require__.e(/* import() */ 63).then(__webpack_require__.bind(null, 305)),
+    ShopLayout: () => __webpack_require__.e(/* import() */ 67).then(__webpack_require__.bind(null, 309)),
+    Features: () => __webpack_require__.e(/* import() */ 64).then(__webpack_require__.bind(null, 306)),
+    InnerPages: () => __webpack_require__.e(/* import() */ 65).then(__webpack_require__.bind(null, 307)),
     FooterLanding: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 148))
   },
   head() {

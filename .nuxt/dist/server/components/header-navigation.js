@@ -8,7 +8,7 @@ exports.modules = {
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/header/Navigation.vue?vue&type=template&id=d1dfcdba
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/header/Navigation.vue?vue&type=template&id=910790da
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -24,37 +24,49 @@ var render = function render() {
     }
   }, [_vm._v("Products")]), _vm._ssrNode(" "), _vm._ssrNode("<ul class=\"submenu\">", "</ul>", [_vm._ssrNode("<li>", "</li>", [_c('n-link', {
     attrs: {
-      "to": "/course/course-one"
+      "to": "/"
     }
-  }, [_vm._v("Course Style 1")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
+  }, [_vm._v("Campus Management System (CMS)")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
     attrs: {
-      "to": "/course/course-two"
+      "to": "/"
     }
-  }, [_vm._v("Course Style 2")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
+  }, [_vm._v("Academics (Acad)")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
     attrs: {
-      "to": "/course/course-three"
+      "to": "/"
     }
-  }, [_vm._v("Course Style 3")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
+  }, [_vm._v("Data Management (DM)")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
     attrs: {
-      "to": "/course/course-four"
+      "to": "/"
     }
-  }, [_vm._v("Course Style 4")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
+  }, [_vm._v("Health & Medical Management (HMM)")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
     attrs: {
-      "to": "/course/course-five"
+      "to": "/"
     }
-  }, [_vm._v("Course Style 5")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
+  }, [_vm._v("Open Clinical Diagnostic Access (OCDA)")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
     attrs: {
-      "to": "/course/course-details"
+      "to": "/"
     }
-  }, [_vm._v("Course Details 1")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
+  }, [_vm._v("Integrated Medical Admission (IMA)")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
     attrs: {
-      "to": "/course/course-details-2"
+      "to": "/"
     }
-  }, [_vm._v("Course Details 2")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
+  }, [_vm._v("Billing & Claims Management (BCM)")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
     attrs: {
-      "to": "/course/course-details-3"
+      "to": "/"
     }
-  }, [_vm._v("Course Details 3")])], 1)], 2)], 2), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
+  }, [_vm._v("Integrated Library Management (ILM)")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
+    attrs: {
+      "to": "/"
+    }
+  }, [_vm._v("Student/Parent Duo Portal (SPDP)")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
+    attrs: {
+      "to": "/"
+    }
+  }, [_vm._v("Teacher’s Portal (TP)")])], 1), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
+    attrs: {
+      "to": "/"
+    }
+  }, [_vm._v("Training & Consultancy (TC)")])], 1)], 2)], 2), _vm._ssrNode(" "), _vm._ssrNode("<li>", "</li>", [_c('n-link', {
     attrs: {
       "to": ""
     }
@@ -70,7 +82,7 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/header/Navigation.vue?vue&type=template&id=d1dfcdba
+// CONCATENATED MODULE: ./components/header/Navigation.vue?vue&type=template&id=910790da
 
 // EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 var componentNormalizer = __webpack_require__(1);

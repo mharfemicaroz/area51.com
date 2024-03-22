@@ -1,7 +1,7 @@
-exports.ids = [37];
+exports.ids = [38];
 exports.modules = {
 
-/***/ 281:
+/***/ 282:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31,7 +31,7 @@ var staticRenderFns = [];
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/home-distant-learning/Categories.vue?vue&type=script&lang=js
 /* harmony default export */ var Categoriesvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276))
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274))
   }
 });
 // CONCATENATED MODULE: ./components/home-distant-learning/Categories.vue?vue&type=script&lang=js

@@ -1,4 +1,4 @@
-exports.ids = [170,115];
+exports.ids = [170,116];
 exports.modules = {
 
 /***/ 103:
@@ -139,7 +139,7 @@ var data_event = __webpack_require__(103);
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
     BreadCrumbTwo: () => __webpack_require__.e(/* import() */ 2).then(__webpack_require__.bind(null, 257)),
-    EventSidebar: () => __webpack_require__.e(/* import() */ 98).then(__webpack_require__.bind(null, 350)),
+    EventSidebar: () => __webpack_require__.e(/* import() */ 99).then(__webpack_require__.bind(null, 350)),
     EventList: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 159)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },

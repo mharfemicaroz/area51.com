@@ -9,9 +9,9 @@
             <div class="inner">
               <div class="content text-end">
                 <span class="subtitle">Get In Touch:</span>
-                <h3 class="title" style="font-size: 150%;!important">
-                  <a href="mailto:cloydcunanan@gmail.com"
-                    >cloydcunanan@gmail.com</a
+                <h3 class="title" style="font-size: 150% !important">
+                  <a href="mailto:cunanan.cloyd@area51.ph"
+                    >cunanan.cloyd@area51.ph</a
                   >
                 </h3>
               </div>

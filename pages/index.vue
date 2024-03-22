@@ -27,7 +27,7 @@
         <div class="gmap_canvas">
           <iframe
             id="gmap_canvas"
-            src="https://maps.google.com/maps?q=Panabo,%20Davao%20del%20norte&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src="https://maps.google.com/maps?q=Door+2,+Zamoras+Building,+Glodo+St.+San+Francisco,+Panabo+City,+Davao+del+Norte&t=&z=15&ie=UTF8&iwloc=&output=embed"
             frameborder="0"
             scrolling="no"
             marginheight="0"

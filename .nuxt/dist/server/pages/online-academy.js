@@ -1,4 +1,4 @@
-exports.ids = [183,100,123,125,144,146];
+exports.ids = [183,101,124,126,144,146];
 exports.modules = {
 
 /***/ 100:
@@ -57,7 +57,7 @@ var staticRenderFns = [];
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/about-us-one/About.vue?vue&type=script&lang=js
 /* harmony default export */ var Aboutvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
     MouseMove: () => __webpack_require__.e(/* import() */ 0).then(__webpack_require__.bind(null, 209))
   }
 });
@@ -118,7 +118,7 @@ var staticRenderFns = [];
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=script&lang=js
 /* harmony default export */ var LogoOnevue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276))
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274))
   }
 });
 // CONCATENATED MODULE: ./components/logo/LogoOne.vue?vue&type=script&lang=js
@@ -510,18 +510,18 @@ var staticRenderFns = [];
 /* harmony default export */ var online_academyvue_type_script_lang_js = ({
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    Banner: () => __webpack_require__.e(/* import() */ 68).then(__webpack_require__.bind(null, 311)),
-    Features: () => __webpack_require__.e(/* import() */ 73).then(__webpack_require__.bind(null, 346)),
-    Categories: () => __webpack_require__.e(/* import() */ 70).then(__webpack_require__.bind(null, 313)),
-    About: () => __webpack_require__.e(/* import() */ 67).then(__webpack_require__.bind(null, 310)),
-    Course: () => __webpack_require__.e(/* import() */ 72).then(__webpack_require__.bind(null, 315)),
+    Banner: () => __webpack_require__.e(/* import() */ 69).then(__webpack_require__.bind(null, 311)),
+    Features: () => __webpack_require__.e(/* import() */ 74).then(__webpack_require__.bind(null, 346)),
+    Categories: () => __webpack_require__.e(/* import() */ 71).then(__webpack_require__.bind(null, 313)),
+    About: () => __webpack_require__.e(/* import() */ 68).then(__webpack_require__.bind(null, 310)),
+    Course: () => __webpack_require__.e(/* import() */ 73).then(__webpack_require__.bind(null, 315)),
     FunFact: () => __webpack_require__.e(/* import() */ 201).then(__webpack_require__.bind(null, 204)),
     TestimonialOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 149)),
-    ContactInfo: () => __webpack_require__.e(/* import() */ 71).then(__webpack_require__.bind(null, 314)),
-    Instructor: () => __webpack_require__.e(/* import() */ 74).then(__webpack_require__.bind(null, 316)),
-    CTAOne: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 272)),
+    ContactInfo: () => __webpack_require__.e(/* import() */ 72).then(__webpack_require__.bind(null, 314)),
+    Instructor: () => __webpack_require__.e(/* import() */ 75).then(__webpack_require__.bind(null, 316)),
+    CTAOne: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 275)),
     LogoOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 118)),
-    Blog: () => __webpack_require__.e(/* import() */ 69).then(__webpack_require__.bind(null, 312)),
+    Blog: () => __webpack_require__.e(/* import() */ 70).then(__webpack_require__.bind(null, 312)),
     FooterTwo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 150))
   },
   head() {

@@ -1,4 +1,4 @@
-exports.ids = [93,139];
+exports.ids = [94,139];
 exports.modules = {
 
 /***/ 122:
@@ -115,7 +115,7 @@ var instagram = __webpack_require__(129);
 
 /* harmony default export */ var Instagramvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 276)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
     InstagramPost: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 122))
   },
   data() {
