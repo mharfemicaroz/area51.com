@@ -1,7 +1,7 @@
 exports.ids = [81,111];
 exports.modules = {
 
-/***/ 164:
+/***/ 165:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -164,7 +164,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 /* harmony default export */ var Course = __webpack_exports__["default"] = (component.exports);
 
 /* nuxt-component-imports */
-installComponents(component, {CourseTypeFour: __webpack_require__(164).default})
+installComponents(component, {CourseTypeFour: __webpack_require__(165).default})
 
 
 /***/ }),
