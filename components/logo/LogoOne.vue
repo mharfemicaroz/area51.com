@@ -2,7 +2,7 @@
   <div class="edu-brand-area brand-area-1 gap-top-equal">
     <div class="container">
       <div class="row">
-        <div class="col-lg-5">
+        <div class="col-lg-4">
           <div class="brand-section-heading">
             <SectionTitle
               preTitle="Our Partners"
@@ -12,31 +12,263 @@
             />
           </div>
         </div>
-        <div class="col-lg-7">
-          <div class="brand-grid-wrap">
+        <div class="col-lg-8">
+          <div class="brand-grid-wrap brand-style-2">
             <div class="brand-grid">
-              <img src="/images/brand/1.png" alt="Brand Logo" />
+              <img
+                src="/images/brand/CITU.png"
+                alt="CITU Logo"
+                width="75"
+                height="75"
+              />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/2.png" alt="Brand Logo" />
+              <img
+                src="/images/brand/EARIST.png"
+                alt="EARIST Logo"
+                width="75"
+                height="75"
+              />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/3.png" alt="Brand Logo" />
+              <img
+                src="/images/brand/MAPUA2.png"
+                alt="MAPUA2 Logo"
+                width="75"
+                height="75"
+              />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/4.png" alt="Brand Logo" />
+              <img
+                src="/images/brand/PUP.png"
+                alt="PUP Logo"
+                width="75"
+                height="75"
+              />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/5.png" alt="Brand Logo" />
+              <img
+                src="/images/brand/USEP.png"
+                alt="USEP Logo"
+                width="75"
+                height="75"
+              />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/6.png" alt="Brand Logo" />
+              <img
+                src="/images/brand/STCAST.png"
+                alt="STCAST Logo"
+                width="75"
+                height="75"
+              />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/7.png" alt="Brand Logo" />
+              <img
+                src="/images/brand/MATSCT.png"
+                alt="MATSCT Logo"
+                width="75"
+                height="75"
+              />
             </div>
             <div class="brand-grid">
-              <img src="/images/brand/8.png" alt="Brand Logo" />
+              <img
+                src="/images/brand/MMAC.png"
+                alt="MMAC Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/MMFC.png"
+                alt="MMFC Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/MOIST.png"
+                alt="MOIST Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/MPC.png"
+                alt="MPC Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/NDC.png"
+                alt="NDC Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/PECIT.png"
+                alt="PECIT Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/SJIT.png"
+                alt="SJIT Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/SJTIT.png"
+                alt="SJTIT Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/SKSU.png"
+                alt="SKSU Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/ADSCO.png"
+                alt="ADSCO Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/AGUSANCOi.png"
+                alt="AGUSANCOi Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/CIT.png"
+                alt="CIT Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/CMU.png"
+                alt="CMU Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/CTU.png"
+                alt="CTU Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/DNSC.png"
+                alt="DNSC Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/GGCAST.png"
+                alt="GGCAST Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/ICI.png"
+                alt="ICI Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/JKLVSRC.png"
+                alt="JKLVSRC Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/LDD.png"
+                alt="LDD Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/3.png"
+                alt="LDD Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/4.png"
+                alt="LDD Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/5.png"
+                alt="LDD Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/6.png"
+                alt="LDD Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/7.png"
+                alt="LDD Logo"
+                width="75"
+                height="75"
+              />
+            </div>
+            <div class="brand-grid">
+              <img
+                src="/images/brand/8.png"
+                alt="LDD Logo"
+                width="75"
+                height="75"
+              />
             </div>
           </div>
         </div>

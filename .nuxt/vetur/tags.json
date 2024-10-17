@@ -56,6 +56,24 @@
   "AnimationMouseMove": {
     "description": "Auto imported from components/animation/MouseMove.vue"
   },
+  "CtaCTAOne": {
+    "description": "Auto imported from components/cta/CTAOne.vue"
+  },
+  "CtaCTAOneAlter": {
+    "description": "Auto imported from components/cta/CTAOneAlter.vue"
+  },
+  "EventList": {
+    "description": "Auto imported from components/event/EventList.vue"
+  },
+  "EventOne": {
+    "description": "Auto imported from components/event/EventOne.vue"
+  },
+  "EventSectionOne": {
+    "description": "Auto imported from components/event/EventSectionOne.vue"
+  },
+  "EventTwo": {
+    "description": "Auto imported from components/event/EventTwo.vue"
+  },
   "BlogPostList": {
     "description": "Auto imported from components/blog/BlogPostList.vue"
   },
@@ -109,24 +127,6 @@
   },
   "CourseTypeTwo": {
     "description": "Auto imported from components/course/CourseTypeTwo.vue"
-  },
-  "CtaCTAOne": {
-    "description": "Auto imported from components/cta/CTAOne.vue"
-  },
-  "CtaCTAOneAlter": {
-    "description": "Auto imported from components/cta/CTAOneAlter.vue"
-  },
-  "EventList": {
-    "description": "Auto imported from components/event/EventList.vue"
-  },
-  "EventOne": {
-    "description": "Auto imported from components/event/EventOne.vue"
-  },
-  "EventSectionOne": {
-    "description": "Auto imported from components/event/EventSectionOne.vue"
-  },
-  "EventTwo": {
-    "description": "Auto imported from components/event/EventTwo.vue"
   },
   "FooterKindergarten": {
     "description": "Auto imported from components/footer/FooterKindergarten.vue"
@@ -332,30 +332,6 @@
   "HomeMainInstructor": {
     "description": "Auto imported from components/home-main/Instructor.vue"
   },
-  "HomeOnlineAcademyBanner": {
-    "description": "Auto imported from components/home-online-academy/Banner.vue"
-  },
-  "HomeOnlineAcademyBlog": {
-    "description": "Auto imported from components/home-online-academy/Blog.vue"
-  },
-  "HomeOnlineAcademyCategories": {
-    "description": "Auto imported from components/home-online-academy/Categories.vue"
-  },
-  "HomeOnlineAcademyContactInfo": {
-    "description": "Auto imported from components/home-online-academy/ContactInfo.vue"
-  },
-  "HomeOnlineAcademyCourse": {
-    "description": "Auto imported from components/home-online-academy/Course.vue"
-  },
-  "HomeOnlineAcademyFAQ": {
-    "description": "Auto imported from components/home-online-academy/FAQ.vue"
-  },
-  "HomeOnlineAcademyFunFact": {
-    "description": "Auto imported from components/home-online-academy/FunFact.vue"
-  },
-  "HomeOnlineAcademyInstructor": {
-    "description": "Auto imported from components/home-online-academy/Instructor.vue"
-  },
   "HomeUniversityAbout": {
     "description": "Auto imported from components/home-university/About.vue"
   },
@@ -407,6 +383,36 @@
   "HomeYogaInstructorWhyChoose": {
     "description": "Auto imported from components/home-yoga-instructor/WhyChoose.vue"
   },
+  "HomeOnlineAcademyBanner": {
+    "description": "Auto imported from components/home-online-academy/Banner.vue"
+  },
+  "HomeOnlineAcademyBlog": {
+    "description": "Auto imported from components/home-online-academy/Blog.vue"
+  },
+  "HomeOnlineAcademyCategories": {
+    "description": "Auto imported from components/home-online-academy/Categories.vue"
+  },
+  "HomeOnlineAcademyContactInfo": {
+    "description": "Auto imported from components/home-online-academy/ContactInfo.vue"
+  },
+  "HomeOnlineAcademyCourse": {
+    "description": "Auto imported from components/home-online-academy/Course.vue"
+  },
+  "HomeOnlineAcademyFAQ": {
+    "description": "Auto imported from components/home-online-academy/FAQ.vue"
+  },
+  "HomeOnlineAcademyFunFact": {
+    "description": "Auto imported from components/home-online-academy/FunFact.vue"
+  },
+  "HomeOnlineAcademyInstructor": {
+    "description": "Auto imported from components/home-online-academy/Instructor.vue"
+  },
+  "LogoOne": {
+    "description": "Auto imported from components/logo/LogoOne.vue"
+  },
+  "LogoTwo": {
+    "description": "Auto imported from components/logo/LogoTwo.vue"
+  },
   "InstructorFive": {
     "description": "Auto imported from components/instructor/InstructorFive.vue"
   },
@@ -421,12 +427,6 @@
   },
   "InstructorTwo": {
     "description": "Auto imported from components/instructor/InstructorTwo.vue"
-  },
-  "LogoOne": {
-    "description": "Auto imported from components/logo/LogoOne.vue"
-  },
-  "LogoTwo": {
-    "description": "Auto imported from components/logo/LogoTwo.vue"
   },
   "ProductOne": {
     "description": "Auto imported from components/product/ProductOne.vue"

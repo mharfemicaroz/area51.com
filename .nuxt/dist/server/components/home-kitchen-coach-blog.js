@@ -60,7 +60,7 @@ var blog = __webpack_require__(99);
 
 /* harmony default export */ var Blogvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274))
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 277))
   },
   data() {
     return {

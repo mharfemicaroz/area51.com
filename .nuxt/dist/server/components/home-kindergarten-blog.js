@@ -1,7 +1,7 @@
 exports.ids = [47,108];
 exports.modules = {
 
-/***/ 162:
+/***/ 163:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -104,8 +104,8 @@ var blog = __webpack_require__(99);
 
 /* harmony default export */ var Blogvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
-    BlogPostTwo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 162))
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 277)),
+    BlogPostTwo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 163))
   },
   data() {
     return {
@@ -140,7 +140,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 /* harmony default export */ var Blog = __webpack_exports__["default"] = (component.exports);
 
 /* nuxt-component-imports */
-installComponents(component, {BlogPostTwo: __webpack_require__(162).default})
+installComponents(component, {BlogPostTwo: __webpack_require__(163).default})
 
 
 /***/ }),

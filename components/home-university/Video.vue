@@ -34,7 +34,7 @@ export default {
     return {
       items: [
         {
-          src: "https://www.youtube.com/watch?v=UiPbiwkGjSs",
+          src: "https://youtu.be/yjtf_Duf3qk",
         },
       ],
       index: null,

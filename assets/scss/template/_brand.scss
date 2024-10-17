@@ -9,7 +9,7 @@
 }
 .brand-grid-wrap {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(10, 1fr);
     position: relative;
     &:after {
         content: "";
@@ -27,12 +27,7 @@
         text-align: center;
         border-right: 1px solid #f0f0f0;
         transition: var(--transition);
-        &:first-child {
-            border-left: 1px solid #f0f0f0;
-        }
-        &:nth-child(5n) {
-            border-left: 1px solid #f0f0f0;
-        }
+
         &:hover {
             box-shadow: var(--shadow-darker);
         }

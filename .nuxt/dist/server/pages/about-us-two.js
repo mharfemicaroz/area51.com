@@ -37,14 +37,14 @@ var staticRenderFns = [];
 /* harmony default export */ var about_us_twovue_type_script_lang_js = ({
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    BreadCrumbOne: () => __webpack_require__.e(/* import() */ 5).then(__webpack_require__.bind(null, 272)),
+    BreadCrumbOne: () => __webpack_require__.e(/* import() */ 5).then(__webpack_require__.bind(null, 275)),
     Features: () => __webpack_require__.e(/* import() */ 26).then(__webpack_require__.bind(null, 263)),
     VideoSection: () => __webpack_require__.e(/* import() */ 31).then(__webpack_require__.bind(null, 267)),
     Logo: () => __webpack_require__.e(/* import() */ 29).then(__webpack_require__.bind(null, 340)),
     Testimonial: () => __webpack_require__.e(/* import() */ 30).then(__webpack_require__.bind(null, 266)),
     FunFact: () => __webpack_require__.e(/* import() */ 27).then(__webpack_require__.bind(null, 264)),
     Instructor: () => __webpack_require__.e(/* import() */ 28).then(__webpack_require__.bind(null, 265)),
-    CTA: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 275)),
+    CTA: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 272)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },
   head() {

@@ -1,7 +1,7 @@
 exports.ids = [81,111];
 exports.modules = {
 
-/***/ 165:
+/***/ 166:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -66,7 +66,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 320:
+/***/ 333:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -127,7 +127,7 @@ var course = __webpack_require__(97);
 
 /* harmony default export */ var Coursevue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 277)),
     CourseTypeFour: () => __webpack_require__.e(/* import() */ 33).then(__webpack_require__.bind(null, 120)),
     MouseMove: () => __webpack_require__.e(/* import() */ 0).then(__webpack_require__.bind(null, 209))
   },
@@ -164,7 +164,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 /* harmony default export */ var Course = __webpack_exports__["default"] = (component.exports);
 
 /* nuxt-component-imports */
-installComponents(component, {CourseTypeFour: __webpack_require__(165).default})
+installComponents(component, {CourseTypeFour: __webpack_require__(166).default})
 
 
 /***/ }),

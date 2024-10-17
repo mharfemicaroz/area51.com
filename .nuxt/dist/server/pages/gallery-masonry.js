@@ -70,7 +70,7 @@ var staticRenderFns = [];
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
     BreadCrumbTwo: () => __webpack_require__.e(/* import() */ 2).then(__webpack_require__.bind(null, 257)),
-    CTAOneAlter: () => __webpack_require__.e(/* import() */ 12).then(__webpack_require__.bind(null, 276)),
+    CTAOneAlter: () => __webpack_require__.e(/* import() */ 12).then(__webpack_require__.bind(null, 273)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },
   data() {

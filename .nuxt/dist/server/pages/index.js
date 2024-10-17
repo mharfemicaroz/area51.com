@@ -85,29 +85,29 @@ module.exports.__inject__ = function (context) {
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=template&id=0c88d4c0
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=template&id=e3c9420e
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c('div', {
     staticClass: "edu-brand-area brand-area-1 gap-top-equal"
-  }, [_vm._ssrNode("<div class=\"container\">", "</div>", [_vm._ssrNode("<div class=\"row\">", "</div>", [_vm._ssrNode("<div class=\"col-lg-5\">", "</div>", [_vm._ssrNode("<div class=\"brand-section-heading\">", "</div>", [_c('SectionTitle', {
+  }, [_vm._ssrNode("<div class=\"container\">", "</div>", [_vm._ssrNode("<div class=\"row\">", "</div>", [_vm._ssrNode("<div class=\"col-lg-4\">", "</div>", [_vm._ssrNode("<div class=\"brand-section-heading\">", "</div>", [_c('SectionTitle', {
     attrs: {
       "preTitle": "Our Partners",
       "title": "Learn with Our Partners",
       "alignment": "section-left",
       "subTitle": "Explore collaborative learning opportunities and grow with the expertise of our distinguished partners."
     }
-  })], 1)]), _vm._ssrNode(" <div class=\"col-lg-7\"><div class=\"brand-grid-wrap\"><div class=\"brand-grid\"><img src=\"/images/brand/1.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/2.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/3.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/4.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/5.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/6.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/7.png\" alt=\"Brand Logo\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/8.png\" alt=\"Brand Logo\"></div></div></div>")], 2)])]);
+  })], 1)]), _vm._ssrNode(" <div class=\"col-lg-8\"><div class=\"brand-grid-wrap brand-style-2\"><div class=\"brand-grid\"><img src=\"/images/brand/CITU.png\" alt=\"CITU Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/EARIST.png\" alt=\"EARIST Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/MAPUA2.png\" alt=\"MAPUA2 Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/PUP.png\" alt=\"PUP Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/USEP.png\" alt=\"USEP Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/STCAST.png\" alt=\"STCAST Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/MATSCT.png\" alt=\"MATSCT Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/MMAC.png\" alt=\"MMAC Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/MMFC.png\" alt=\"MMFC Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/MOIST.png\" alt=\"MOIST Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/MPC.png\" alt=\"MPC Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/NDC.png\" alt=\"NDC Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/PECIT.png\" alt=\"PECIT Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/SJIT.png\" alt=\"SJIT Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/SJTIT.png\" alt=\"SJTIT Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/SKSU.png\" alt=\"SKSU Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/ADSCO.png\" alt=\"ADSCO Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/AGUSANCOi.png\" alt=\"AGUSANCOi Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/CIT.png\" alt=\"CIT Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/CMU.png\" alt=\"CMU Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/CTU.png\" alt=\"CTU Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/DNSC.png\" alt=\"DNSC Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/GGCAST.png\" alt=\"GGCAST Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/ICI.png\" alt=\"ICI Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/JKLVSRC.png\" alt=\"JKLVSRC Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/LDD.png\" alt=\"LDD Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/3.png\" alt=\"LDD Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/4.png\" alt=\"LDD Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/5.png\" alt=\"LDD Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/6.png\" alt=\"LDD Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/7.png\" alt=\"LDD Logo\" width=\"75\" height=\"75\"></div> <div class=\"brand-grid\"><img src=\"/images/brand/8.png\" alt=\"LDD Logo\" width=\"75\" height=\"75\"></div></div></div>")], 2)])]);
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/logo/LogoOne.vue?vue&type=template&id=0c88d4c0
+// CONCATENATED MODULE: ./components/logo/LogoOne.vue?vue&type=template&id=e3c9420e
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=script&lang=js
 /* harmony default export */ var LogoOnevue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274))
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 277))
   }
 });
 // CONCATENATED MODULE: ./components/logo/LogoOne.vue?vue&type=script&lang=js
@@ -293,7 +293,7 @@ installComponents(component, {HeaderTopTwo: __webpack_require__(102).default})
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=template&id=7d44044b
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=template&id=7ad6d066
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -306,28 +306,32 @@ var render = function render() {
     attrs: {
       "showHeaderTop": "true"
     }
-  }), _vm._ssrNode(" "), _c('Banner'), _vm._ssrNode(" "), _c('Categories'), _vm._ssrNode(" "), _c('Course'), _vm._ssrNode(" "), _c('LogoOne'), _vm._ssrNode(" "), _c('Instructor'), _vm._ssrNode(" "), _c('FunFact'), _vm._ssrNode(" "), _c('FAQ'), _vm._ssrNode(" "), _c('VideoSection'), _vm._ssrNode(" "), _c('ContactInfo'), _vm._ssrNode(" <div class=\"google-map-area mt-4\"><div class=\"mapouter\"><div class=\"gmap_canvas\"><iframe id=\"gmap_canvas\" src=\"https://maps.google.com/maps?q=Door+2,+Zamoras+Building,+Glodo+St.+San+Francisco,+Panabo+City,+Davao+del+Norte&t=&z=15&ie=UTF8&iwloc=&output=embed\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\"></iframe></div></div></div> "), _c('FooterOne')], 2);
+  }), _vm._ssrNode(" "), _c('Banner'), _vm._ssrNode(" "), _c('Categories'), _vm._ssrNode(" "), _c('Course'), _vm._ssrNode(" "), _c('LogoOne'), _vm._ssrNode(" "), _c('Instructor'), _vm._ssrNode(" "), _c('FunFact'), _vm._ssrNode(" "), _c('FAQ'), _vm._ssrNode(" "), _c('Event', {
+    attrs: {
+      "extraClass": "event-area-2"
+    }
+  }), _vm._ssrNode(" "), _c('VideoSection'), _vm._ssrNode(" "), _c('ContactInfo'), _vm._ssrNode(" <div class=\"google-map-area mt-4\"><div class=\"mapouter\"><div class=\"gmap_canvas\"><iframe id=\"gmap_canvas\" src=\"https://maps.google.com/maps?q=Door+2,+Zamoras+Building,+Glodo+St.+San+Francisco,+Panabo+City,+Davao+del+Norte&t=&z=15&ie=UTF8&iwloc=&output=embed\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\"></iframe></div></div></div> "), _c('FooterOne')], 2);
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/index.vue?vue&type=template&id=7d44044b
+// CONCATENATED MODULE: ./pages/index.vue?vue&type=template&id=7ad6d066
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=script&lang=js
 /* harmony default export */ var lib_vue_loader_options_pagesvue_type_script_lang_js = ({
   components: {
     HeaderThree: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 160)),
-    VideoSection: () => __webpack_require__.e(/* import() */ 17).then(__webpack_require__.bind(null, 327)),
-    Banner: () => __webpack_require__.e(/* import() */ 77).then(__webpack_require__.bind(null, 317)),
-    Categories: () => __webpack_require__.e(/* import() */ 79).then(__webpack_require__.bind(null, 319)),
-    Course: () => __webpack_require__.e(/* import() */ 81).then(__webpack_require__.bind(null, 320)),
+    VideoSection: () => __webpack_require__.e(/* import() */ 17).then(__webpack_require__.bind(null, 321)),
+    Banner: () => __webpack_require__.e(/* import() */ 77).then(__webpack_require__.bind(null, 330)),
+    Categories: () => __webpack_require__.e(/* import() */ 79).then(__webpack_require__.bind(null, 332)),
+    Course: () => __webpack_require__.e(/* import() */ 81).then(__webpack_require__.bind(null, 333)),
     LogoOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 118)),
-    Instructor: () => __webpack_require__.e(/* import() */ 83).then(__webpack_require__.bind(null, 322)),
-    FunFact: () => __webpack_require__.e(/* import() */ 202).then(__webpack_require__.bind(null, 205)),
-    FAQ: () => __webpack_require__.e(/* import() */ 82).then(__webpack_require__.bind(null, 321)),
-    Event: () => __webpack_require__.e(/* import() */ 13).then(__webpack_require__.bind(null, 277)),
-    ContactInfo: () => __webpack_require__.e(/* import() */ 80).then(__webpack_require__.bind(null, 346)),
-    Blog: () => __webpack_require__.e(/* import() */ 78).then(__webpack_require__.bind(null, 318)),
-    CTA: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 275)),
+    Instructor: () => __webpack_require__.e(/* import() */ 83).then(__webpack_require__.bind(null, 335)),
+    FunFact: () => __webpack_require__.e(/* import() */ 202).then(__webpack_require__.bind(null, 207)),
+    FAQ: () => __webpack_require__.e(/* import() */ 82).then(__webpack_require__.bind(null, 334)),
+    Event: () => __webpack_require__.e(/* import() */ 13).then(__webpack_require__.bind(null, 274)),
+    ContactInfo: () => __webpack_require__.e(/* import() */ 80).then(__webpack_require__.bind(null, 348)),
+    Blog: () => __webpack_require__.e(/* import() */ 78).then(__webpack_require__.bind(null, 331)),
+    CTA: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 272)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },
   head() {

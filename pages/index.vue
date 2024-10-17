@@ -16,7 +16,7 @@
 
     <FAQ />
 
-    <!-- <Event extraClass="event-area-2" /> -->
+    <Event extraClass="event-area-2" />
 
     <VideoSection />
 
