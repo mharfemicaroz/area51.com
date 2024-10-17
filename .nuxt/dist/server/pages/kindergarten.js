@@ -57,7 +57,7 @@ var staticRenderFns = [];
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/about-us-one/About.vue?vue&type=script&lang=js
 /* harmony default export */ var Aboutvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 277)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
     MouseMove: () => __webpack_require__.e(/* import() */ 0).then(__webpack_require__.bind(null, 209))
   }
 });
@@ -338,14 +338,14 @@ var staticRenderFns = [];
 /* harmony default export */ var kindergartenvue_type_script_lang_js = ({
   components: {
     HeaderFour: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 144)),
-    Banner: () => __webpack_require__.e(/* import() */ 46).then(__webpack_require__.bind(null, 289)),
-    About: () => __webpack_require__.e(/* import() */ 44).then(__webpack_require__.bind(null, 287)),
-    Course: () => __webpack_require__.e(/* import() */ 48).then(__webpack_require__.bind(null, 291)),
-    Activities: () => __webpack_require__.e(/* import() */ 45).then(__webpack_require__.bind(null, 288)),
-    FAQ: () => __webpack_require__.e(/* import() */ 50).then(__webpack_require__.bind(null, 293)),
-    Event: () => __webpack_require__.e(/* import() */ 49).then(__webpack_require__.bind(null, 292)),
-    Blog: () => __webpack_require__.e(/* import() */ 47).then(__webpack_require__.bind(null, 290)),
-    SubscriptionForm: () => __webpack_require__.e(/* import() */ 51).then(__webpack_require__.bind(null, 294)),
+    Banner: () => __webpack_require__.e(/* import() */ 46).then(__webpack_require__.bind(null, 298)),
+    About: () => __webpack_require__.e(/* import() */ 44).then(__webpack_require__.bind(null, 296)),
+    Course: () => __webpack_require__.e(/* import() */ 48).then(__webpack_require__.bind(null, 300)),
+    Activities: () => __webpack_require__.e(/* import() */ 45).then(__webpack_require__.bind(null, 297)),
+    FAQ: () => __webpack_require__.e(/* import() */ 50).then(__webpack_require__.bind(null, 302)),
+    Event: () => __webpack_require__.e(/* import() */ 49).then(__webpack_require__.bind(null, 301)),
+    Blog: () => __webpack_require__.e(/* import() */ 47).then(__webpack_require__.bind(null, 299)),
+    SubscriptionForm: () => __webpack_require__.e(/* import() */ 51).then(__webpack_require__.bind(null, 303)),
     FooterKindergarten: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 169))
   },
   head() {

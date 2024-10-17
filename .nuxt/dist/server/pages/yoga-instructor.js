@@ -57,7 +57,7 @@ var staticRenderFns = [];
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/about-us-one/About.vue?vue&type=script&lang=js
 /* harmony default export */ var Aboutvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 277)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
     MouseMove: () => __webpack_require__.e(/* import() */ 0).then(__webpack_require__.bind(null, 209))
   }
 });
@@ -196,15 +196,15 @@ var staticRenderFns = [];
 /* harmony default export */ var yoga_instructorvue_type_script_lang_js = ({
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    Banner: () => __webpack_require__.e(/* import() */ 92).then(__webpack_require__.bind(null, 323)),
-    About: () => __webpack_require__.e(/* import() */ 91).then(__webpack_require__.bind(null, 322)),
-    Course: () => __webpack_require__.e(/* import() */ 93).then(__webpack_require__.bind(null, 324)),
-    FunFact: () => __webpack_require__.e(/* import() */ 204).then(__webpack_require__.bind(null, 206)),
-    WhyChoose: () => __webpack_require__.e(/* import() */ 97).then(__webpack_require__.bind(null, 329)),
-    Instructor: () => __webpack_require__.e(/* import() */ 90).then(__webpack_require__.bind(null, 326)),
-    VideoSection: () => __webpack_require__.e(/* import() */ 96).then(__webpack_require__.bind(null, 328)),
-    Testimonial: () => __webpack_require__.e(/* import() */ 95).then(__webpack_require__.bind(null, 327)),
-    Instagram: () => __webpack_require__.e(/* import() */ 94).then(__webpack_require__.bind(null, 325)),
+    Banner: () => __webpack_require__.e(/* import() */ 92).then(__webpack_require__.bind(null, 329)),
+    About: () => __webpack_require__.e(/* import() */ 91).then(__webpack_require__.bind(null, 328)),
+    Course: () => __webpack_require__.e(/* import() */ 93).then(__webpack_require__.bind(null, 330)),
+    FunFact: () => __webpack_require__.e(/* import() */ 204).then(__webpack_require__.bind(null, 207)),
+    WhyChoose: () => __webpack_require__.e(/* import() */ 97).then(__webpack_require__.bind(null, 335)),
+    Instructor: () => __webpack_require__.e(/* import() */ 90).then(__webpack_require__.bind(null, 332)),
+    VideoSection: () => __webpack_require__.e(/* import() */ 96).then(__webpack_require__.bind(null, 334)),
+    Testimonial: () => __webpack_require__.e(/* import() */ 95).then(__webpack_require__.bind(null, 333)),
+    Instagram: () => __webpack_require__.e(/* import() */ 94).then(__webpack_require__.bind(null, 331)),
     FooterYoga: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 154))
   },
   head() {

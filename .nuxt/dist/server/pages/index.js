@@ -107,7 +107,7 @@ var staticRenderFns = [];
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/logo/LogoOne.vue?vue&type=script&lang=js
 /* harmony default export */ var LogoOnevue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 277))
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274))
   }
 });
 // CONCATENATED MODULE: ./components/logo/LogoOne.vue?vue&type=script&lang=js
@@ -320,18 +320,18 @@ var staticRenderFns = [];
 /* harmony default export */ var lib_vue_loader_options_pagesvue_type_script_lang_js = ({
   components: {
     HeaderThree: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 160)),
-    VideoSection: () => __webpack_require__.e(/* import() */ 17).then(__webpack_require__.bind(null, 321)),
-    Banner: () => __webpack_require__.e(/* import() */ 77).then(__webpack_require__.bind(null, 330)),
-    Categories: () => __webpack_require__.e(/* import() */ 79).then(__webpack_require__.bind(null, 332)),
-    Course: () => __webpack_require__.e(/* import() */ 81).then(__webpack_require__.bind(null, 333)),
+    VideoSection: () => __webpack_require__.e(/* import() */ 17).then(__webpack_require__.bind(null, 327)),
+    Banner: () => __webpack_require__.e(/* import() */ 77).then(__webpack_require__.bind(null, 317)),
+    Categories: () => __webpack_require__.e(/* import() */ 79).then(__webpack_require__.bind(null, 319)),
+    Course: () => __webpack_require__.e(/* import() */ 81).then(__webpack_require__.bind(null, 320)),
     LogoOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 118)),
-    Instructor: () => __webpack_require__.e(/* import() */ 83).then(__webpack_require__.bind(null, 335)),
-    FunFact: () => __webpack_require__.e(/* import() */ 202).then(__webpack_require__.bind(null, 207)),
-    FAQ: () => __webpack_require__.e(/* import() */ 82).then(__webpack_require__.bind(null, 334)),
-    Event: () => __webpack_require__.e(/* import() */ 13).then(__webpack_require__.bind(null, 274)),
-    ContactInfo: () => __webpack_require__.e(/* import() */ 80).then(__webpack_require__.bind(null, 348)),
-    Blog: () => __webpack_require__.e(/* import() */ 78).then(__webpack_require__.bind(null, 331)),
-    CTA: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 272)),
+    Instructor: () => __webpack_require__.e(/* import() */ 83).then(__webpack_require__.bind(null, 322)),
+    FunFact: () => __webpack_require__.e(/* import() */ 202).then(__webpack_require__.bind(null, 205)),
+    FAQ: () => __webpack_require__.e(/* import() */ 82).then(__webpack_require__.bind(null, 321)),
+    Event: () => __webpack_require__.e(/* import() */ 13).then(__webpack_require__.bind(null, 277)),
+    ContactInfo: () => __webpack_require__.e(/* import() */ 80).then(__webpack_require__.bind(null, 346)),
+    Blog: () => __webpack_require__.e(/* import() */ 78).then(__webpack_require__.bind(null, 318)),
+    CTA: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 275)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },
   head() {

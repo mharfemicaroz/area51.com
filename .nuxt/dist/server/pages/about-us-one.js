@@ -57,7 +57,7 @@ var staticRenderFns = [];
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/about-us-one/About.vue?vue&type=script&lang=js
 /* harmony default export */ var Aboutvue_type_script_lang_js = ({
   components: {
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 277)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
     MouseMove: () => __webpack_require__.e(/* import() */ 0).then(__webpack_require__.bind(null, 209))
   }
 });
@@ -439,7 +439,7 @@ var staticRenderFns = [];
 /* harmony default export */ var about_us_onevue_type_script_lang_js = ({
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
-    BreadCrumbOne: () => __webpack_require__.e(/* import() */ 5).then(__webpack_require__.bind(null, 275)),
+    BreadCrumbOne: () => __webpack_require__.e(/* import() */ 5).then(__webpack_require__.bind(null, 272)),
     About: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 100)),
     LogoTwo: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 168)),
     WhyChoose: () => __webpack_require__.e(/* import() */ 21).then(__webpack_require__.bind(null, 262)),

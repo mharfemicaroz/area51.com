@@ -1,7 +1,7 @@
 exports.ids = [27];
 exports.modules = {
 
-/***/ 264:
+/***/ 268:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -98,7 +98,7 @@ var external_vue_count_to_default = /*#__PURE__*/__webpack_require__.n(external_
 /* harmony default export */ var FunFactvue_type_script_lang_js = ({
   components: {
     countTo: external_vue_count_to_default.a,
-    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 277)),
+    SectionTitle: () => __webpack_require__.e(/* import() */ 1).then(__webpack_require__.bind(null, 274)),
     MouseMove: () => __webpack_require__.e(/* import() */ 0).then(__webpack_require__.bind(null, 209))
   },
   data() {

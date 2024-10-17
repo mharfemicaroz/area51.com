@@ -33,7 +33,7 @@ var staticRenderFns = [];
   components: {
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
     BreadCrumbTwo: () => __webpack_require__.e(/* import() */ 2).then(__webpack_require__.bind(null, 257)),
-    CTAOne: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 272)),
+    CTAOne: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 275)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },
   head() {

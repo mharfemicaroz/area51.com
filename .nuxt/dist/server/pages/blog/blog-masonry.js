@@ -132,7 +132,7 @@ var blog = __webpack_require__(99);
     HeaderOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)),
     BreadCrumbTwo: () => __webpack_require__.e(/* import() */ 2).then(__webpack_require__.bind(null, 257)),
     BlogPostOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 104)),
-    CTAOne: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 272)),
+    CTAOne: () => __webpack_require__.e(/* import() */ 4).then(__webpack_require__.bind(null, 275)),
     PaginationOne: () => __webpack_require__.e(/* import() */ 11).then(__webpack_require__.bind(null, 341)),
     FooterOne: () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 33))
   },
